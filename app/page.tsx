@@ -1,6 +1,9 @@
 import Header from "@/components/header";
 import Hero from "@/components/hero";
 import Services from "@/components/services";
+import Projects from "@/components/projects";
+import Contact from "@/components/contact";
+import Footer from "@/components/footer";
 
 export default function Home() {
   return (
@@ -8,7 +11,9 @@ export default function Home() {
       <Header />
       <Hero />
       <Services />
-      <div className="h-[2000px] bg-blue-400"></div>
+      <Projects />
+      <Contact />
+      <Footer />
     </div>
   );
 }

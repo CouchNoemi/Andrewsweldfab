@@ -29,7 +29,7 @@ const services: {
 ];
 function Services() {
   return (
-    <div className="bg-[#222] p-10 space-y-10">
+    <section id="services" className="bg-[#222] p-10 space-y-10">
       <h1 className="text-2xl sm:text-5xl font-bold text-white text-center">
         Services
       </h1>
@@ -44,7 +44,7 @@ function Services() {
           </div>
         ))}
       </div>
-    </div>
+    </section>
   );
 }
 
