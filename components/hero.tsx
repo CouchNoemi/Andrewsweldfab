@@ -1,8 +1,20 @@
+"use client"
+
 import React from "react";
 import hero from "@/assets/images/hero.jpeg";
-import Button from "./button";
+import { Button } from "./ui/button";
 
 function Hero() {
+  const scrollToContact = () => {
+    const contactSection = document.getElementById('contact');
+    if (contactSection) {
+      contactSection.scrollIntoView({ 
+        behavior: 'smooth',
+        block: 'start'
+      });
+    }
+  };
+
   return (
     <div
       className="flex items-center justify-center h-[60vh] md:h-[70vh] w-full  bg-fixed bg-cover bg-center relative text-white p-10"
@@ -19,7 +31,14 @@ function Hero() {
           <h2>Need Expert Welding & Fabrication?</h2>
           <p>Contact us today for a custom quote and fast turnaround.</p>
         </div>
-        <Button className="min-w-[200px]">Get a Quote</Button>
+        <Button 
+          variant="accent"
+          size="lg"
+          className="min-w-[200px]"
+          onClick={scrollToContact}
+        >
+          Get a Quote
+        </Button>
       </div>
     </div>
   );
