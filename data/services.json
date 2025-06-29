@@ -1,0 +1,131 @@
+[
+  {
+    "id": "ford-bed-plans",
+    "title": "Ford Bed Plans",
+    "description": "High-precision bed plans for Ford trucks.",
+    "products": [
+      {
+        "title": "Ford F-150 Flatbed",
+        "price": 2500,
+        "image": "/images/ford-f150-main.jpg",
+        "media": [
+          "/images/ford-f150-main.jpg",
+          "/images/ford-f150-side.jpg",
+          "/images/ford-f150-back.jpg"
+        ]
+      },
+      {
+        "title": "Ford Super Duty Bed",
+        "price": 3200,
+        "image": "/images/ford-superduty-main.jpg",
+        "media": [
+          "/images/ford-superduty-main.jpg",
+          "/images/ford-superduty-detail.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chevy-gmc-bed-plans",
+    "title": "Chevy/GMC Bed Plans",
+    "description": "Custom-fit bed plans for Chevy and GMC trucks.",
+    "products": [
+      {
+        "title": "Chevy Silverado Bed",
+        "price": 2700,
+        "image": "/images/chevy-silverado-main.jpg",
+        "media": [
+          "/images/chevy-silverado-main.jpg",
+          "/images/chevy-silverado-detail.jpg"
+        ]
+      },
+      {
+        "title": "GMC Sierra Bed",
+        "price": 2800,
+        "image": "/images/gmc-sierra-main.jpg",
+        "media": [
+          "/images/gmc-sierra-main.jpg",
+          "/images/gmc-sierra-side.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dodge-ram-bed-plans",
+    "title": "Dodge/Ram Bed Plans",
+    "description": "Durable bed plans for Dodge and Ram trucks.",
+    "products": [
+      {
+        "title": "Ram 1500 Bed",
+        "price": 2600,
+        "image": "/images/ram-1500-main.jpg",
+        "media": [
+          "/images/ram-1500-main.jpg",
+          "/images/ram-1500-detail.jpg"
+        ]
+      },
+      {
+        "title": "Dodge Heavy Duty Bed",
+        "price": 3400,
+        "image": "/images/dodge-heavy-main.jpg",
+        "media": [
+          "/images/dodge-heavy-main.jpg",
+          "/images/dodge-heavy-back.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chassis-cab-bed-plans",
+    "title": "Chassis-Cab Bed Plans",
+    "description": "Versatile bed plans for chassis-cab configurations.",
+    "products": [
+      {
+        "title": "Standard Chassis-Cab Bed",
+        "price": 3000,
+        "image": "/images/chassis-cab-main.jpg",
+        "media": [
+          "/images/chassis-cab-main.jpg",
+          "/images/chassis-cab-side.jpg"
+        ]
+      },
+      {
+        "title": "Heavy Duty Chassis-Cab Bed",
+        "price": 3700,
+        "image": "/images/chassis-cab-heavy-main.jpg",
+        "media": [
+          "/images/chassis-cab-heavy-main.jpg",
+          "/images/chassis-cab-heavy-detail.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toyota-bed-plans",
+    "title": "Toyota Bed Plans",
+    "description": "Reliable bed plans for Toyota trucks.",
+    "products": [
+      {
+        "title": "Toyota Tacoma Bed",
+        "price": 2400,
+        "image": "/images/tacoma-main.jpg",
+        "media": [
+          "/images/tacoma-main.jpg",
+          "/images/tacoma-side.jpg"
+        ]
+      },
+      {
+        "title": "Toyota Tundra Bed",
+        "price": 2900,
+        "image": "/images/tundra-main.jpg",
+        "media": [
+          "/images/tundra-main.jpg",
+          "/images/tundra-detail.jpg"
+        ]
+      }
+    ]
+  }
+]
+
+
+

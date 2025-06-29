@@ -4,32 +4,9 @@ import React, { useState } from "react";
 import flatBedImg from "@/assets/images/basic-flat.jpg";
 import Image, { StaticImageData } from "next/image";
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel";
+import ServicesData from "@/data/services.json";
 
-const services: {
-  id: string;
-  title: string;
-  description: string;
-  img: StaticImageData;
-}[] = [
-    {
-      id: "flat-beds",
-      title: "Flat Beds",
-      description: "High-precision with great welds.",
-      img: flatBedImg,
-    },
-    {
-      id: "metal-fabrications",
-      title: "Metal Fabrication",
-      description: "Custom metal structures built to your specifications.",
-      img: flatBedImg,
-    },
-    {
-      id: "press-repair",
-      title: "Press Repair",
-      description: "Expert repair services to minimize downtime.",
-      img: flatBedImg,
-    },
-  ];
+// Remove the hardcoded services array. Data will be loaded from JSON.
 
 // Dummy colored slides for each service
 const serviceSlides: Record<string, string[]> = {
@@ -76,7 +53,7 @@ function Services() {
       </h1>
 
       <div className="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        {services.map((s) => (
+        {ServicesData.map((s) => (
           <div
             key={s.id}
             className={`group rounded-md overflow-hidden relative aspect-square cursor-pointer transform transition-all duration-300 hover:shadow-lg ${selectedServiceId === s.id ? "ring-4 ring-blue-400" : ""
@@ -84,7 +61,7 @@ function Services() {
             onClick={() => handleServiceClick(s.id)}
           >
             <Image
-              src={s.img}
+              src={flatBedImg}
               alt={s.title}
               fill
               className="object-cover transition-transform duration-500 group-hover:scale-110"
@@ -101,7 +78,7 @@ function Services() {
         ))}
       </div>
 
-      {selectedServiceId && (
+      {/* {selectedServiceId && (
         <div className="max-w-5xl mx-auto">
           <Carousel className="relative w-full">
             <CarouselContent>
@@ -124,7 +101,7 @@ function Services() {
             </div>
           </Carousel>
         </div>
-      )}
+      )} */}
     </section>
   );
 }
