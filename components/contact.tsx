@@ -7,6 +7,7 @@ function Contact() {
   const [formData, setFormData] = useState({
     name: '',
     email: '',
+    phone: '',
     message: ''
   });
 
@@ -25,12 +26,12 @@ function Contact() {
     const body = `
 Name: ${formData.name}
 Email: ${formData.email}
-
+Phone: ${formData.phone}  
 Message:
 ${formData.message}
     `;
     
-    const mailtoLink = `mailto:obendesmond2@gmail.com,noemicouch@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    const mailtoLink = `mailto:andrewsweldfabrication@gmail.com,noemicouch@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     
     window.location.href = mailtoLink;
   };
@@ -96,6 +97,19 @@ ${formData.message}
                 value={formData.email}
                 onChange={handleInputChange}
                 placeholder="Enter your email"
+                required
+                className="w-full px-4 py-3 rounded-lg bg-gray-700 border border-gray-600 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
+              />
+            </div>
+            <div className="space-y-2">
+              <label htmlFor="phone" className="block text-sm font-medium text-gray-300">Phone</label>
+              <input
+                type="phone"
+                id="phone"
+                name="phone"
+                value={formData.phone}
+                onChange={handleInputChange}
+                placeholder="Enter your phone number"
                 required
                 className="w-full px-4 py-3 rounded-lg bg-gray-700 border border-gray-600 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
               />
