@@ -5,22 +5,429 @@
     "description": "High-precision bed plans for Ford trucks.",
     "products": [
       {
-        "title": "Ford F-150 Flatbed",
-        "price": 2500,
-        "image": "/images/ford-f150-main.jpg",
+        "title": "1999-2025 Ford F-250/F-350 Utility Bed W/ Deck-Side Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_ec7f4ac5-2f26-43f4-a047-0b8edd626af1.png",
         "media": [
-          "/images/ford-f150-main.jpg",
-          "/images/ford-f150-side.jpg",
-          "/images/ford-f150-back.jpg"
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.2_7c540698-aeed-4572-bad1-da28ffb48bf3.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.3_53910822-637a-420a-a645-161024dcdb57.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.4_1f8b44e7-ebe2-48df-a386-882ebf1eb0ad.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.5_55e37848-2760-4505-b96f-11a00e0be823.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.6_1027fb52-20db-4621-96ed-870e58d68b3e.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.7_021e2e0d-e396-4684-a88e-e737655b9caa.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.8_a69e92c0-b496-465e-9d7c-345aca823f81.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.9_4c132f5e-4522-4c18-b087-bf172e823f67.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.10_cdaaa784-3cb6-41c1-a6c6-d6fef43bbe6b.png"
+        ],
+        "description": [
+          "Utility bed w/ deck-side boxes designed to fit on 1999-2025 Ford F-250/F-350 SRW short-bed trucks with 38\" wide frames. Built with a 3\" X 4.1# U-Channel frame, 3\" X 1 1/2\" 11 gauge rectangular tubing sub-frame, 16 gauge plate boxes & fenders, and 10 gauge plate deck & tail. Overall dimensions: 88\" long X 80\" wide.",
+          "Purchase includes: 45 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
         ]
       },
       {
-        "title": "Ford Super Duty Bed",
-        "price": 3200,
-        "image": "/images/ford-superduty-main.jpg",
+        "title": "1999-2025 Ford F-250/F-350 Flatbed W/ 2 Under-Body Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_dc279c47-e248-45c5-b549-d837aef4f0da.png",
         "media": [
-          "/images/ford-superduty-main.jpg",
-          "/images/ford-superduty-detail.jpg"
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.7_5b0c168f-585f-4f9f-bc5c-6f4e9adb467f.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.2_15828d66-e336-4985-b98d-ab414aac37b0.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.3_94056d90-bdd2-448c-b018-a912a7d0691e.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.4_368b2991-ea37-44dc-89aa-7d26b8e8d521.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.5_130f56c3-583e-4ad5-9193-a274e78e3fba.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.6_832cff97-823b-45a6-a5ba-69fe9aaa983d.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1999-2025 Ford F-250 or F-350 SRW short-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction with the addition of 2 under-body truck boxes. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 88\"L X 80\"W deck, rub rails with stake pockets, a stylish-tapered tail, and 2 under-body boxes (18\"L X 10\"W X 16\"H). The factory rear hitch can still be used with this design.",
+          "Upon purchasing this set of plans you will receive: A 36 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-250/F-350 Flatbed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_677c1680-1b52-49ff-af4d-b280cfb1fa3b.png",
+        "media": [
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.6_ebf1a352-8af0-4222-85af-89c6138e8f4b.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.2_3d87dec1-1620-4281-bae8-d437433b28bd.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.3_6414c1e2-d9af-4cf8-b69c-11cd154f2fd1.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.4_7c55f4b9-812d-4ea9-b710-62eaefd31b68.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.5_9e15ddde-61f2-4f9c-8879-8e6518f5e89b.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1999-2025 Ford F-250 or F-350 SRW short-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 88\"L X 80\"W deck, rub rails with stake pockets, and a stylish-tapered tail. The factory rear hitch can still be used with this design.",
+          "Upon purchasing this set of plans you will receive: A 28 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-250/F-350 Flatbed W/ Large Front Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_f3428217-5054-4e8b-b9a6-3a99b306c385.png",
+        "media": [
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.2_0e745d5d-c2be-4578-a6ac-e6004da6f806.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.3_5075477f-7238-45f0-b529-de09d5b7fc73.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.4_4fd7321b-4be2-4809-98ab-7de158af5040.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.5_4f06bbd1-1f0d-41e0-8ad0-52a4c87a51c5.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.6_a9ea8fe4-ac4f-424a-994d-019a228a0f18.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.7_3a7b3e1f-0442-466a-8c49-3625ddba3c05.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.8_90dbcca6-f737-43ba-9fb5-ae5f7b4f7c3a.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.9_9e413716-0677-4981-9e54-61c74559f34c.png",
+          ""
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1999-2025 Ford F-250 or F-350 SRW short-bed pickup into a sleek looking yet very capable work rig. This bed is most notable for it's large front boxes and rear fender boxes, which allow it to have more dry-storage than it probably appears to have at first. It's primary purpose is to maximize the amount on-board storage of a short-bed pickup, while also offering an elevated style to the truck, and maintaining as much usable deck space as possible.",
+          "From the back of the cab-forward, this bed has a 86\"L X 80\"W deck (49\"W between the boxes), rub rails with stake pockets, two large front boxes (25\"L X 15\"W X 40\"H), and two rear fender boxes (20\"L X 11\"W X 17\"H). It also features an integral gooseneck hitch and the factory hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 36 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-250/F-350 Flatbed W/ Deck-Top Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_603ebb88-e320-4e21-87df-f287c2b0172a.png",
+        "media": [
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.10_fb62b05a-822e-4193-8cc9-66d94722281d.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.2_dc532b14-a2f2-40ee-893b-7a216d89b971.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.3_24577f8b-dbfe-4cbc-bad2-628ec90a19ba.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.4_d386dacf-5567-4c27-9cd5-cf6aaa7ee3cb.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.5_c93aaa99-1d6a-4347-a6c6-9e78e6284a73.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.6_74e518a5-c5b5-48c8-8b56-0b7e72a85af4.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.7_4bff28f8-72f2-410d-9bac-305d72812f61.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.8_ca8689de-2096-4383-a8ce-583c445f0921.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.9_52d5de67-68fa-438b-b3f3-88f1a4927510.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1999-2025 Ford F-250 or F-350 SRW short-bed pickup into a sleek looking yet very capable work rig. This bed is most notable for it's large front boxes and rear fender boxes, which allow it to have more dry-storage than it probably appears to have at first. It's primary purpose is to maximize the amount on-board storage of a short-bed pickup, while also offering an elevated style to the truck, and maintaining as much usable deck space as possible.",
+          "From the back of the cab-forward, this bed has a 86\"L X 80\"W deck (49\"W between the boxes), rub rails with stake pockets, two large front boxes (25\"L X 15\"W X 40\"H), and two rear fender boxes (20\"L X 11\"W X 17\"H). It also features an integral gooseneck hitch and the factory hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 36 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "2003-2025 Ford F-250/F-350 Utility Bed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_de3a10a7-dc0c-4533-ac0f-0d8a6e2bbe62.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_81b7b8a8-61e7-4f21-a5c7-9bb96e5d4204.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_d459f479-8ed6-4619-8a70-af4e671ec5b9.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_4dc99fe1-b8b0-4519-a571-22e0e335e98b.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_7313d053-75c4-4cfa-9164-4d4d8af79bd8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_6c7a750c-ea72-4c45-b4f2-d71eace70d5e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_116c7398-5653-461a-987e-7ed83a6c72d6.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_a9ac8c48-1fa8-4bff-8da7-a16a1327d2e2.png"
+        ],
+        "description": [
+          "Utility bed w/ headache rack designed to fit on 1999-2025 Ford F-250/F-350 SRW long-bed trucks with 38\" wide frames. Built with a 3\" X 4.1# U-Channel frame, 3\" X 1 1/2\" 11 gauge rectangular tubing sub-frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail. Overall dimensions: 106\" long X 80\" wide.",
+          "Purchase includes: 39 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-250/F-350 Flatbed W/ Fender Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_47cae1ac-38f3-45ba-9125-57fb6870cf55.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_e0773028-77dc-4286-9d72-9bec54e4c8de.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_2525a217-ba54-4058-bc71-97478580918c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_73e24b95-8ac7-4611-a137-6d437229724c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_d0c4214c-d5c8-48ee-8289-480b85f0da5b.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_7ce3131c-eb21-40ee-80aa-f93d99ac2d91.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_5fcc05aa-c4b5-41a9-a462-c29194063a58.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_31075553-75b6-46e7-bde4-0c502f5b16d6.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_5cfa1b43-5196-489e-8765-7b924c523df9.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.11_421837ea-cab4-4099-b794-bbac46448189.png"
+        ],
+        "description": [
+          "Flatbed w/ fender boxes designed to fit on 1999-2025 F-250/F-350 SRW long-bed trucks with 38\" wide frames. Built with a 4\" X 1 1/2\" X 3/16\" U-channel frame, 16 gauge box plates, 10 gauge tail & deck plates. Overall dimensions: 106\" long X 80\" wide.",
+          "Purchase includes: 39 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-250/F-350 Flatbed W/ 5-Ton Dump Bed Kit",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_bf39f525-290a-4186-bb2b-7f353be2d435.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_fe72dc77-c904-4812-855e-061941e867fe.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_b7997131-efd7-4e16-87cd-f05fce32f40a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_1e46e2a7-d14f-40db-a156-8b4801cff362.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_9ca7ba38-c544-4fe7-ae9f-0bdd95f4c395.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_ae62cdde-7fc3-4115-a192-dbc397d3ca2a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_80216e8b-a9a2-45b1-93ee-f67bf2fc6ac1.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_6153a636-380b-4a16-9947-bca7bea588f0.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_2aea42ce-b583-46b5-ac76-83de0e0834ce.png"
+        ],
+        "description": [
+          "Flatbed w/ a 5-ton dump bed kit designed to fit on 1999-2025 Ford F-250/F-350 SRW long-bed trucks with 34\"-38\" wide frames. Built with a 6\" X 3\" 11 gauge rectangular tubing frame, 2\" X 2\" 11 gauge square tubing sub-frame, and 10 gauge fender, tail, & deck plates. Overall dimensions: 109\" long X 82\" wide.",
+          "Purchase includes: 28 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-250/F-350 Welding Bed W/ Rear Deck Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_de078487-7e1e-4d49-aaa3-aeba8dd2d118.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_964d1985-4585-497e-9a3a-4d1f842a746a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_47491c6a-00e3-4380-acd4-afa8d14d576e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_b97cd0ef-acff-4aaa-9f60-d9c7bce5acab.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_54e0aeac-7819-4c3f-97a0-28f70754f042.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_ac41a4e4-7192-4117-aa2d-830ff2dbd26c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_0af75743-24d7-4673-8b8c-0e1818154bcc.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_d5981724-5733-41d1-a932-891bfe7823cd.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_7718dee9-11f0-45a4-b328-887c725cc7e5.png"
+        ],
+        "description": [
+          "Welding bed w/ rear deck boxes designed to fit on 1999-2025 Ford F-250/F-350 SRW long-bed trucks with 38\" wide frames. Built with a 4\" X 2\" 11 gauge rectangular tubing frame, 2\" X 2\" 11 gauge square tubing sub-frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck plates. Overall dimensions: 108\" long X 80\" wide.",
+          "Purchase includes: 31 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-250/F-350 Welding Bed W/ Front Cabinet",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_35b41d10-6701-4576-8f46-7e89747fc3aa.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_f8198b50-2863-4798-a7a8-eccc60a0154d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_8f338ea1-8346-4632-95ac-d8b59ceb9d7a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.12_275a9b5f-7c0e-4f3c-adaa-1e32403c897f.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_e2191358-847f-474b-b0bc-23f1892b25f8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_3ac7f8c6-a8dc-4a3e-b7e5-ffd483940ec5.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_a2f0d217-9c12-4e87-89da-aca3572c05ba.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_581d975f-781a-4e77-b750-52af6db1fd09.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_c1befb9d-f8a1-4947-b358-1d3b1347d47a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_4218e768-d4bf-41db-8eb9-ab6997104084.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_fed4f74b-42dd-4dab-8a0b-6a7ed3331e35.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.11_23921f3e-a42d-4457-b47d-d5dbcba88efe.png"
+        ],
+        "description": [
+          "Welding bed w/ a roof rack & front box designed to fit on 1999-2025 F-250/F-350 SRW long-bed trucks with 34\" wide frames. Built with a 4\" X 2\" 16 gauge rectangular tubing frame, 2\" X 2\" 7 gauge square tubing sub-frame, 16 gauge plate boxes & fenders, and 10 gauge tail & deck plates. Overall dimensions: 114\" long X 80\" wide.",
+          "Purchase includes: 35 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-250/F-350 Welding Bed W/ Large Front Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_ab929903-d2f2-4e2b-9258-41f28354b3ce.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_0bed76d3-9815-414c-95e6-ac0fd256fac2.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_19656c67-c363-4682-ab22-ff039be7a1bf.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_de1884f8-95cd-46bc-8777-c37b127ce9c2.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_ca4b7646-ea41-4e25-91ca-a67096d1dd90.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_8d243c7e-ec34-4374-acfd-f8bf28fdb7c2.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_0a6c02fa-545a-438e-abe8-4881cc872fed.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_ae83d1e9-2069-4ef6-8e8e-843be83224e7.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_eab9e812-3842-4277-9214-0916205556c6.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_404ecc3b-b0be-41d8-bd32-33df02610caf.png"
+        ],
+        "description": [
+          "Welding bed w/ large front boxes designed to fit on 1999-2025 Ford F-250/F-350 SRW long-bed trucks with 38\" wide frames. Built with a 4\" X 2\" 11 gauge rectangular tubing frame, 2\" X 2\" 11 gauge square tubing sub-frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck plates. Overall dimensions: 104\" long X 80\" wide.",
+          "Purchase includes: 31 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F-450 Welding Bed W/ Deck Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_cf5f049c-6eaa-4a14-a5a7-aa78e4f0f35e.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_85034eb2-bf81-431d-abeb-3ec15bbe7d38.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_bc857b55-ff4e-4c38-86d9-f4804524eaed.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_370f1a25-8514-4b70-ad5b-101638e0925f.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_484efc7d-18cd-42a9-89ca-77a8264e981d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_a277429e-aaaa-490c-acd6-579abf96e2bf.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_41635bf1-586c-4da4-ac40-e35caee0bf89.png"
+        ],
+        "description": [
+          "Welding bed w/ rear deck boxes designed to fit on 1999-2025 Ford F-350/F-450 DRW long-bed trucks with 38\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 106\" long X 90\" wide.",
+          "Purchase includes: 63 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F-450 Flatbed W/ Hauler Trough",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_bc94e3f2-a30a-4520-a090-7f7b8bb92c21.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_4c9472a3-3591-458c-bac4-2338bcb7081a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_b379e2ba-afc1-4c11-83e5-6be99a11f949.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_ebefbf96-6a55-4d7a-aa38-fd01aecaaf71.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_5ee3d33b-c254-480f-b40e-64b25848e56b.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_e46c7995-5491-4bd7-a622-fdf966353fae.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_ed8bfdae-4162-448d-bbd4-562c40484aae.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_b084e231-e035-4342-a5ef-84f338e9f249.png"
+        ],
+        "description": [
+          "Flatbed w/ hauler trough designed to fit on 1999-2025 Ford F-350 & F-450 DRW long-bed trucks with 38\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 5\" X 2\" 11 gauge rectangular tubing sub-frame, 16 gauge plate fenders, 10 gauge plate tail, and 1/8\" thick tread plate deck. Approx. overall dimensions: 104\" long X 90\" wide.",
+          "Purchase includes: 50 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F-450 Utility Bed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_b8bde7de-e672-4748-ab72-6977b6bb61e4.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_a5fb6170-a415-4f08-b84b-1fba817ddffe.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_3ec7f90e-6a41-4730-bb22-bae771e480e1.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_40835de3-febe-4b70-810d-ce2955174e9b.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_4a16c2ae-faeb-4598-8b23-ed8c406390a8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_3df7c25b-5fe8-4991-ab56-9555b669be5c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_4234ff89-ebeb-4234-9ec9-2acc4b13d582.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_ce3e3c76-6669-4dae-ac61-226addcf6283.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_374548d9-8250-47cd-a308-b8e25aa5cb9e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_a07a0dc8-58de-4e20-8fd4-f3568d5d1759.png"
+        ],
+        "description": [
+          "Utility bed w/ headache rack designed to fit on 1999-2025 Ford F-350/F-450 DRW long-bed trucks with 34\" wide frames. Built with a 2\" X 4\" 11 gauge rectangular tubing frame, 2\" X 2\" 11 gauge square tubing sub-frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail. Overall dimensions: 106\" long X 102\" wide.",
+          "Purchase includes: 43 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F-450 Welding Bed W/ Rear Deck Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_02c4a304-4a4d-477f-a838-93a78bc24e2d.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_b6f8d3cf-3fd0-43ec-a32b-97d3211c61e4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_71c20e44-7475-49e7-8ae9-38dc837705e6.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_1f24cdf1-1586-4242-baf4-23940282be33.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_14aca440-ad10-4127-8a45-38ab477a891d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_758e293c-fcac-41cd-acb4-cc0e45316e60.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_140afee3-b03f-4aec-aa11-f307233a3921.png"
+        ],
+        "description": [
+          "Welding bed w/ rear deck boxes designed to fit on 1999-2025 Ford F-350/F-450 DRW long-bed trucks with 38\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 104\" long X 90\" wide.",
+          "Purchase includes: 64 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F-450 Flatbed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_cd27df93-cbb6-44cb-b030-dd3ff08a75f1.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_80ebf8fd-767e-4dc6-9cf8-07535d4e0dc5.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_a72aa16f-338c-403d-bda3-b80007cc6a09.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_019b8d20-28d3-4b75-bb8b-bc52caf2d965.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_5f7d1a4f-f693-48d3-abf8-90b2f40e5d37.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_cb80c2cf-bf92-4ba4-a11d-10a96c818905.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1999-2025 Ford F-350 or F-450 DRW long-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 104\"L X 96\"W deck, rub rails with stake pockets, and a stylish-tapered tail. The factory rear hitch can still be used with this design.",
+          "Upon purchasing this set of plans you will receive: A 29 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F-450 Welding Bed W/ Canadian Box",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_e036ea6a-6834-46f5-b591-cd7ced459b28.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_4d61986a-7a59-4b58-884f-b1ef8e5656e3.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_1d7e633e-66d5-4cfc-83c5-cd0f1fa6be14.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_59c7864c-6c4b-46fb-891f-c93f57769491.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_75e2d88e-3a6f-4d0c-aff8-d7afd16700b6.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_441f197b-80fe-4fe7-8753-de8e9c9734ec.png"
+        ],
+        "description": [
+          "Welding bed w/ Canadian box designed to fit on 1999-2025 Ford F-350/F-450 DRW long-bed trucks with 38\" wide frames. Built with a 4\" X 2\" 11 gauge rectangular tubing frame, 2\" X 2\" 11 gauge square tubing sub-frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck plates. Overall dimensions: 106\" long X 92\" wide.",
+          "Purchase includes: 33 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F-450 Utility Bed W/ Deck-Side Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.A.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.B.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.C.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.D.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.E.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.F.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.G.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.H.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.I.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.J.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.K.png"
+        ],
+        "description": [
+          "The utility bed shown above is designed to turn any 1999-2025 Ford F-250 or F-350 DRW long-bed pickup into a the ultimate work horse. This bed boasts service-body storage capacity levels, while staying streamline to the body and retaining it's gooseneck capability. It is designed to help you get all of your tools on & off site and maximizes the available space of a DRW long-bed pickup.",
+          "From the back of the cab-forward, this bed has two large triple-door front boxes (55\"L X 20\"W X 40\"H) with 49\" of space between them. As you move back, there is a 100\"L X 49\"W deck, two deck-side boxes (45\"L X 20\"W X 6\"H), and two rear fender boxes (17\"L X 16\"W X 21\"H). The factory rear hitch can still be used with this design.",
+          "Upon purchasing this set of plans you will receive: A 54 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F-450 Utility Bed W/ Roof Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_a7dfa390-bc80-49ff-8f92-83cc3c0055ac.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_25aa4d78-b09e-4f83-8308-f1b8a752998d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_69df9c32-7d4e-46b9-8e23-17799f72962d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_0bc66d3e-cb1a-476e-8ba9-af66d8a130dd.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_88a18172-6664-41eb-8cc9-0336b6123b49.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_8f71065a-64db-4856-82cb-d8fb03b12150.png"
+        ],
+        "description": [
+          "Utility bed w/ roof rack designed to fit on 1999-2025 Ford F-350/F-450 DRW long-bed trucks with 38\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 104\" long X 90\" wide.",
+          "Purchase includes: 49 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F-450 Welding Bed W/ Large Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/products/CLAY.BARTOLONE.CUSTOM.IMG6_ad262108-c204-4346-9edf-6ef8b3e86a04.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/products/CLAY.BARTOLONE.CUSTOM.IMG1_10a47752-15e8-4c66-847f-85fb72f3f035.png",
+         "https://nomadflatbeds.com/cdn/shop/products/CLAY.BARTOLONE.CUSTOM.IMG2_526efccf-364b-4385-99fa-ac33f6359ac6.png",
+         "https://nomadflatbeds.com/cdn/shop/products/CLAY.BARTOLONE.CUSTOM.IMG3_c3efdb67-a0c0-40d7-bb01-8fea3f3203c5.png",
+         "https://nomadflatbeds.com/cdn/shop/products/CLAY.BARTOLONE.CUSTOM.IMG4_749b3e59-2ced-426d-802a-3459e8abfe3d.png",
+         "https://nomadflatbeds.com/cdn/shop/products/CLAY.BARTOLONE.CUSTOM.IMG5_2c8f4868-1afc-41bc-9843-2935c883a339.png"
+        ],
+        "description": [
+          "Welding bed w/ large boxes designed to fit on 1999-2025 F-350/F-450 DRW long-bed trucks with 38\" wide frames. Built with a 2\" X 4\" 7 gauge rectangular tubing frame, 2\" X 2\" 7 gauge square tubing sub-frame, 16 gauge plate boxes, fenders, and 10 gauge tail plates. Approx. overall dimensions: 118\" long X 88\" wide.",
+          "Purchase includes: 33 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F450 Flatbed W/ 2 Under-Body Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_99f7eb32-23f8-4b11-ac27-6e278d39a283.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_51f487dc-ab31-44a6-aa72-48655089ec02.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_cb7a540a-3e10-47e9-8427-b16f345c3bba.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_47145299-f503-4ea6-8f5e-5a559648cdb8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_3215cd7d-54ab-4ca0-b5d2-ebfb5da2641a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_ef831d76-5e56-4e31-806f-e8b37872b955.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_e90354ac-88e1-4fe5-905c-1bca42213280.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1999-2025 Ford F-350 or F-450 DRW long-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction with the addition of 2 under-body truck boxes. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 104\"L X 96\"W deck, rub rails with stake pockets, a stylish-tapered tail, and 2 under-body boxes (32\"L X 18\"W X 16\"H). The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 37 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F-450 Welding Bed W/ Deep Deck Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_f1520a1c-e43b-4491-b8c3-e94641225037.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_99557d5f-021a-47c8-bbcf-594cefd07938.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_46dc4d9e-8d49-4621-9caa-7a577511463a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_aa7203fe-6737-4b99-bee7-822a3219f69f.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_9b4b2238-b41e-4096-9883-7314729ecea5.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_2f27fe21-11ac-4080-8e2c-5997d615a807.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_1d423087-ddfb-43d4-b246-226e2bf23c92.png"
+        ],
+        "description": [
+          "Welding bed w/ rear deck boxes designed to fit on 1999-2025 Ford F-350/F-450 DRW long-bed trucks with 38\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 106\" long X 90\" wide.",
+          "Purchase includes: 73 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "1999-2025 Ford F-350/F-450 Welding Bed W/ Roof Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_213be250-8a33-45dd-931b-618be19820e1.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_05598247-a59e-48a4-a551-497e324210e4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_a6110f75-80e4-437b-85f0-fb8dae67a9e3.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_7974e082-0efe-4593-8bde-3faab9c850ab.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_39a99ac9-050e-469d-8ac2-954b261f948a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_aa2caeb6-5107-4d75-812b-5703c6a5dc32.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7.png"
+        ],
+        "description": [
+          "Welding bed w/ a roof rack & front box designed to fit on 1999-2025 F-350/F-450 DRW long-bed trucks with 38\" wide frames. Built with a 2\" X 2\" 11 gauge square tubing frame, 16 gauge plate boxes, and 10 gauge fender, tail, and deck plates. Overall dimensions: 106\" long X 90\" wide.",
+          "Purchase includes: 28 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
         ]
       }
     ]
@@ -31,21 +438,47 @@
     "description": "Custom-fit bed plans for Chevy and GMC trucks.",
     "products": [
       {
-        "title": "Chevy Silverado Bed",
-        "price": 2700,
-        "image": "/images/chevy-silverado-main.jpg",
+        "title": "1988-2025 GM 2500/3500 Utility Bed W/ Front Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_a38a74a9-b2e1-4305-b242-638f51422959.png",
         "media": [
-          "/images/chevy-silverado-main.jpg",
-          "/images/chevy-silverado-detail.jpg"
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_fa5779c3-6c26-42ef-8e40-5800e1e51d1c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_78fc63b1-9e51-4466-91f9-2fd67bfe036a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_fbe3e194-5862-4aa0-9bd6-25d3ab269566.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_cdf5b254-6508-406d-8493-dce8a3ff4c0b.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_1527b78c-87d3-4af9-b117-e2b1d527afd4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_3ef51d98-b0c2-422f-9be4-47a76d3c292a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_7e997efb-6ec3-4af9-aad1-506248a0c02e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_8b578d8a-e248-4a80-91c1-792915dcff03.png"
+        ],
+        "description": [
+          "The utility bed shown above is designed to turn any 1988-2025 Chevy/GMC 2500 or 3500 SRW short-bed pickup into a little beast of a work truck. This bed is most notable for it's large tapered front boxes and multi-angle headache rack. It is designed to help you maximize the onboard tool and material storage that comes with a short-bed pickup.",
+          "From the back of the cab-forward, this bed has two large front boxes (28\"L X 16\"W X 36\"H) with 46\" of space between them. As you move back, there is a 56\"L X 80\"W deck, rub rails with stake pockets, and two rear fender boxes (22\"L X 10\"W X 18\"H). It also features an optional and removable ladder/material rack. The factory rear & gooseneck hitch's can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 43 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
         ]
       },
       {
-        "title": "GMC Sierra Bed",
-        "price": 2800,
-        "image": "/images/gmc-sierra-main.jpg",
+        "title": "1988-2025 GM 2500/3500 Flatbed W/ Headache Rack",
+        "price": 129,
+        "image": "",
         "media": [
-          "/images/gmc-sierra-main.jpg",
-          "/images/gmc-sierra-side.jpg"
+         ""
+        ],
+        "description": [
+          "The utility bed shown above is designed to turn any 1988-2025 Chevy/GMC 2500 or 3500 SRW short-bed pickup into a little beast of a work truck. This bed is most notable for it's large tapered front boxes and multi-angle headache rack. It is designed to help you maximize the onboard tool and material storage that comes with a short-bed pickup.",
+          "From the back of the cab-forward, this bed has two large front boxes (28\"L X 16\"W X 36\"H) with 46\" of space between them. As you move back, there is a 56\"L X 80\"W deck, rub rails with stake pockets, and two rear fender boxes (22\"L X 10\"W X 18\"H). It also features an optional and removable ladder/material rack. The factory rear & gooseneck hitch's can still be used with this design.",
+          "Upon purchasing this set of plans you will receive: A 43 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "",
+        "price": 129,
+        "image": "",
+        "media": [
+         ""
+        ],
+        "description": [
+          ""
         ]
       }
     ]
@@ -56,21 +489,14 @@
     "description": "Durable bed plans for Dodge and Ram trucks.",
     "products": [
       {
-        "title": "Ram 1500 Bed",
-        "price": 2600,
-        "image": "/images/ram-1500-main.jpg",
+        "title": "",
+        "price": 129,
+        "image": "",
         "media": [
-          "/images/ram-1500-main.jpg",
-          "/images/ram-1500-detail.jpg"
-        ]
-      },
-      {
-        "title": "Dodge Heavy Duty Bed",
-        "price": 3400,
-        "image": "/images/dodge-heavy-main.jpg",
-        "media": [
-          "/images/dodge-heavy-main.jpg",
-          "/images/dodge-heavy-back.jpg"
+         ""
+        ],
+        "description": [
+          ""
         ]
       }
     ]
@@ -81,21 +507,14 @@
     "description": "Versatile bed plans for chassis-cab configurations.",
     "products": [
       {
-        "title": "Standard Chassis-Cab Bed",
-        "price": 3000,
-        "image": "/images/chassis-cab-main.jpg",
+        "title": "",
+        "price": 129,
+        "image": "",
         "media": [
-          "/images/chassis-cab-main.jpg",
-          "/images/chassis-cab-side.jpg"
-        ]
-      },
-      {
-        "title": "Heavy Duty Chassis-Cab Bed",
-        "price": 3700,
-        "image": "/images/chassis-cab-heavy-main.jpg",
-        "media": [
-          "/images/chassis-cab-heavy-main.jpg",
-          "/images/chassis-cab-heavy-detail.jpg"
+         ""
+        ],
+        "description": [
+          ""
         ]
       }
     ]
@@ -106,26 +525,16 @@
     "description": "Reliable bed plans for Toyota trucks.",
     "products": [
       {
-        "title": "Toyota Tacoma Bed",
-        "price": 2400,
-        "image": "/images/tacoma-main.jpg",
+        "title": "",
+        "price": 129,
+        "image": "",
         "media": [
-          "/images/tacoma-main.jpg",
-          "/images/tacoma-side.jpg"
-        ]
-      },
-      {
-        "title": "Toyota Tundra Bed",
-        "price": 2900,
-        "image": "/images/tundra-main.jpg",
-        "media": [
-          "/images/tundra-main.jpg",
-          "/images/tundra-detail.jpg"
+         ""
+        ],
+        "description": [
+          ""
         ]
       }
     ]
   }
 ]
-
-
-
