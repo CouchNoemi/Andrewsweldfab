@@ -431,7 +431,7 @@
         ]
       }
     ]
-  },
+  }, 
   {
     "id": "chevy-gmc-bed-plans",
     "title": "Chevy/GMC Bed Plans",
@@ -460,25 +460,387 @@
       {
         "title": "1988-2025 GM 2500/3500 Flatbed W/ Headache Rack",
         "price": 129,
-        "image": "",
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_36cbd415-1d3f-4908-ab35-cf0a9321f2b0.png",
         "media": [
-         ""
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_508d7903-d75c-41be-8649-4af4e029ee0c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_ff398312-8716-4906-9f5f-672b0fd302f4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_f02f60a3-f2cb-4adf-b83e-e49ab10fdb98.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_152997bd-0fd0-4cad-a242-7a67f29e656c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_7020410b-efb9-48f5-b9fe-13f030035256.png"
         ],
         "description": [
-          "The utility bed shown above is designed to turn any 1988-2025 Chevy/GMC 2500 or 3500 SRW short-bed pickup into a little beast of a work truck. This bed is most notable for it's large tapered front boxes and multi-angle headache rack. It is designed to help you maximize the onboard tool and material storage that comes with a short-bed pickup.",
-          "From the back of the cab-forward, this bed has two large front boxes (28\"L X 16\"W X 36\"H) with 46\" of space between them. As you move back, there is a 56\"L X 80\"W deck, rub rails with stake pockets, and two rear fender boxes (22\"L X 10\"W X 18\"H). It also features an optional and removable ladder/material rack. The factory rear & gooseneck hitch's can still be used with this design.",
-          "Upon purchasing this set of plans you will receive: A 43 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+          "The flatbed shown above is designed to turn any 1988-2025 Chevy/GMC 2500 or 3500 SRW short-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 88\"L X 80\"W deck, rub rails with stake pockets, and a stylish-tapered tail. The factory rear hitch can still be used with this design.",
+          "Upon purchasing this set of plans you will receive: A 28 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
         ]
       },
       {
-        "title": "",
+        "title": "1988-2025 GM 2500/3500 Welding Bed W/ Recessed Deck",
         "price": 129,
-        "image": "",
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_e5eec46b-837f-40bf-9db8-c18374d94537.png",
         "media": [
-         ""
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_6b3470a8-87b6-4ea0-bc5e-3392542157df.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_6eed5478-29ab-4b5b-bb09-e0c4a55791c9.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_995f1255-24e1-4fc4-87fa-167cb39db1b2.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_66586575-4b8b-473a-8efd-428b3cfca8c4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_4db61591-28ad-4a7b-b4e9-3ffff17a9037.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_7bd849ef-bdd9-4eba-8bad-5394ee86c4bb.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_1428ae95-659a-42db-928d-263355fb4597.png" 
         ],
         "description": [
-          ""
+          "The welding bed shown above is designed to turn any 1988-2025 Chevy/GMC 2500 or 3500 SRW short-bed pickup into a full-on welding rig. This bed is most notable for it's simple and almost retro-looking construction, while still maintaining the functionality of the much more 'flashy' welding beds. It's primary purpose is to help you get quality field work done, while maximizing the use of the limited bed real-estate that comes with a short-bed pickup.",
+          "From the back of the cab-forward, this bed has a single-bottle oxygen holder, a single-bottle acetylene holder, and a 25 1/2\"L X 60\"W (3\" deep) welder recess, designed to get your machine as low as possible. As you move back, there is a raised work deck that houses the two rear deck boxes (36\"L X 19\"W X 20\"H). And in the tail, there are two 2\" hitch receivers for accessory mounting, as well as a recessed license plate box. The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 30 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 2500/3500 Utility Bed W/ Deck-side Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_9dfb1472-8821-4deb-8d8c-e5507065fc97.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_475a80fe-af69-43c0-be2a-34ab444c94f0.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_4b6a4dc6-8cee-474b-ab53-fd26688578a1.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_8e84d8ef-3bb3-4bd0-96fc-fd5aabe0a039.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_3fd45bfc-ea0d-4855-a90b-5bfb68fe25ef.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_05cce72f-0f9d-4fe2-9bda-f49106d5f6bc.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_ee6c90fe-a6c9-4a7a-a411-3a1a8e1ae236.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_f5c92d5a-e572-49ad-b52a-0c82dfcc34ff.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_cb43edc3-7d31-4f26-9f9a-ea16c0464659.png"
+        ],
+        "description": [
+          "The utility bed shown above is designed to turn any 1988-2025 Chevy/GMC 2500 or 3500 SRW short-bed pickup into both a flashy & functional service truck. This bed is most notable for it's large front boxes and low profile deck-side boxes. It is designed to help you get all of your tools on & off site and maximizes the available space of a short-bed pickup.",
+          "From the back of the cab-forward, this bed has two large front boxes (30\"L X 14 1/2\"W X 37\"H) with 49\" of space between them. As you move back, there is a 88\"L X 49\"W deck, two deck-side boxes (58\"L X 15\"W X 27\"H), and a recessed trunk box (19\"L X 44\"W X 4\"H). The factory rear & gooseneck hitch's can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 45 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 2500/3500 Utility Bed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_22a5d38e-d3bd-41e4-86e9-45be1ce9329e.png?v=1729230457&width=990",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_7b7e79a0-edbd-4c47-836c-c257f1846f1f.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_3fe8e136-b13c-4ce7-a57f-daf13f8270a7.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_ad434536-f402-43b2-bdaf-ad497e3f0721.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_c6aebf14-b35e-4df2-a5ab-0f107ce59332.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_51a1ab7d-11d8-4db1-97b7-d1035eb6fe39.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_6b6857ac-205f-408b-9a90-e4ed3c053d02.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_3b78e2cb-02c5-4a21-828a-3f4a607ef113.png"
+        ],
+        "description": [
+          "The utility bed shown above is designed to turn any 1988-2025 Chevy/GMC 2500 or 3500 SRW short-bed pickup into a sleek looking show truck or a capable work rig. This bed is most notable for it's tapered construction and large front box that will hold just about any tool you can think of putting in there. It is designed to help you do whatever you do, wherever you do it, and however you do it.",
+          "From the back of the cab-forward, this bed has a large pass-through box that is 36\"H X 12W\" on the sides, with a central pass-through section (20\"L X 55\"W X 15 3/4\"H) for storing longer tools. As you move back, there is a 68\"L X 80\"W deck and two rear fender boxes (27\"L X 12 1/2\"W X 20\"H). And in the tail, there is a 48 1/2\"W X 3\"H door to access and under-belly ramp, as well as a recessed license plate box. The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 40 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 2500/3500 Flatbed W/ Transfer Tank",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_c9736b39-2107-4966-8802-bd1b26791a55.png",
+        "media": [
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.2_b3c715cf-e560-49a3-a6be-b81fef76a6a3.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.3_153b89f8-7b68-4b38-ab53-c1ff0995cba2.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.4_a88633ef-5507-483c-9e50-2a04a791c6de.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.5_eb96eaeb-0c1e-47a3-8c36-836e46c531ee.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.6_cac72c92-08c6-4b57-b8fa-e4472318d458.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.7_4a354801-6753-4236-9e5c-db2beea40dcd.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1988-2024 Chevy/GMC 2500 or 3500 SRW short-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and it's option roof & ladder racks. It's primary purpose is to help you maximize the carrying capacity of you short-bed truck, wether you're hauling on the deck or on the racks up above.",
+          "From the back of the cab-forward, this bed has an optional 45 gallon fuel transfer tank, two underbody boxes (18\"L X 18\"W X 18\"H), a 2\" X 6\" wood deck, and an integral gooseneck hitch. As you move back, there is a 80\"L X 80\"W wooden deck with an integral gooseneck hitch. The tail is flat all of the way across to most efficiently use the available deck space, and it features a recessed license plate box. The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 33 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 2500/3500 Flatbed W/ 2 Under-Body Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_c0ae136e-8d50-4b6a-8cf6-12321f182c8a.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_2afc7d8f-b7c6-4fb5-894f-eeea4ac2139a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_62ee556b-8d55-4b9a-b083-9604405ced17.png?v=1750403861&width=1100",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_886bf4dd-d376-42ab-98e5-4a0177b82ed1.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_7868a338-6a36-4b25-a7f5-e048888e8700.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_603d6d85-c175-49a0-ab5d-7ac9eb30fc22.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_852ada75-6740-4d85-b9fb-73349ca5c8ba.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1988-2025 Chevy/GMC 2500 or 3500 SRW short-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction with the addition of 2 under-body truck boxes. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 88\"L X 80\"W deck, rub rails with stake pockets, a stylish-tapered tail, and 2 under-body boxes (22\"L X 10\"W X 16\"H). The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 36 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 2500/3500 Flatbed W/ Deck-Top Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_cc8a109f-67bb-403c-b326-71566a6e2157.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.12_02bebd6e-6125-4991-b996-b3e2a7118e84.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_c0748870-80a9-4341-8225-318997c10d46.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_4b7f9fc0-cd0b-482d-8e46-4f829d38584d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_4e52eae2-e5c7-42cc-a65f-33f3727d5e1d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_50fe708f-84be-409d-b979-562e693741df.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_2fa8b59a-4775-4779-8fbe-24bb286af8bd.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_b6f5574c-d050-4774-82d7-870bbc2267ba.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_1c9d6143-2883-4b0b-ac69-2b3e8f3bdf9e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_ead87e01-e840-4b91-94c9-f58f543397e2.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_856a1083-fd9d-4fbc-9fa8-746a5edbf63e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.11_704c0a4a-a55d-4cb4-82cc-da799fdb7f5b.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1988-2025 Chevy/GMC 2500 or 3500 SRW short-bed pickup into a sleek looking show truck or a capable work rig. This bed is most notable for it's tapered fenders and it's swept rear fender boxes. It is designed to help you do whatever you do, wherever and however you do it.",
+          "From the back of the cab-forward, this bed has two front fender boxes (29\"L X 10W\" X 20\"H), two rear fender boxes (28\"L X 10\"W X 17\"H) and two optional deck-top boxes (82\"L X 10\"W X 16\"H). Whenever the deck-top boxes are mounted, the clearance between them is 59\"W X 85\"L. The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 60 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 2500/3500 Flatbed W/ Fender Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_86cddea2-bfdf-4021-9872-91a5ce2f3c40.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_56e39c07-49ea-41f2-b335-af305b305770.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_93f390c9-061d-48c7-9b27-12c6f324d3ff.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_dab39631-e5fb-46d6-96d7-4bb657257b01.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_9fef1243-7e69-4bd6-a81a-611a917ae734.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_25980a60-27f2-40ae-a52d-fceebd800892.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_6107c91e-1163-4ee8-9bf2-5e7ef09816f5.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_a6cfc042-6154-4fa8-9fbd-218e8d24d45c.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1988-2024 Chevy/GMC 2500 or 3500 SRW long-bed pickup into a sleek looking yet very capable work rig. This bed is most notable for it's tapered construction and four fender boxes, which allow it to have more storage than it probably appears to have at first look. It's primary purpose is to take advantage of all the bed real estate of a long-bed pickup, while also offering an elevated style to the truck, and additional dry-storage space.",
+          "From the back of the cab-forward, this bed has a 102\"L X 80\"W deck, rub rails with stake pockets, two front fender boxes (36\"L X 14\"W X 20\"H), and two rear fender boxes (27\"L X 12\"W X 20\"H). The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 40 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 2500/3500 Flatbed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_6ea33367-8e11-4434-a13d-57b2bb9c480a.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_4d6dfaf2-a1ab-4ab8-b537-9debbeda5029.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_722c3e21-25b4-41ff-a5d3-2c0744b0bbb4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_e0f6cf0b-62be-4ea7-857e-4f5ff891a00a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_003284e8-e66d-4f5f-a5b4-89cee5c236f9.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_f9beba19-80cc-4dd3-b703-c7b22e65dcaa.png"
+
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1988-2025 Chevy/GMC 2500 or 3500 SRW long-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 104\"L X 80\"W deck, rub rails with stake pockets, and a stylish-tapered tail. The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 29 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 2500/3500 Flatbed W/ Rear Deck Box",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_dae95500-06e3-481a-a8e7-c0f120cc2e2e.png?v=1731447187&width=493",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_5c8e567c-334e-483d-844b-a24a22a9163f.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_15b46c3c-5b3a-4ede-8a84-7c2771d03739.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_e317f67b-e3ad-499b-97d5-ef9d152dae1b.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_e2cc82b8-5268-4d93-acbb-27a44913bbe9.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_1182004b-9c69-43ca-ac64-8136e77b96ad.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_6611e564-e28a-4c74-8176-2d7502ab34c1.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_29c3ff9f-3652-4384-8b78-ce4d9bffd21d.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1988-2024 Chevy/GMC 2500 or 3500 SRW long-bed pickup into a sleek looking yet very capable work rig. This bed is most notable for it's tapered construction and hidden rear deck box, which allows it to have much more storage than one would think at first look. It's primary purpose is to take advantage of all the bed real estate of a long-bed pickup, while also offering an elevated style to the truck, and additional dry-storage space.",
+          "From the back of the cab-forward, this bed has a 100\"L X 80\"W deck, two front fender boxes (34\"L X 14\"W X 21\"H), and a singular large rear deck box (24\"L X 76\"W X 21\"H). The rear deck box is full depth on the sides, allowing it to have as much storage as rear fender boxes and a trunk box combined. The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 30 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 2500/3500 Welding Bed W/ Canadian Box",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_1375ed89-1b21-4143-8492-fe3cd606a863.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_19750971-ce80-448d-b25b-1b051fb91d31.png?",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_3356ddbe-f4ca-4d80-aa72-40251f557f98.png?",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_51121ef2-be0b-47d7-923a-09a11cde6c6f.png?",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_018b2ece-08ff-4b62-aad3-1a180ee8a610.png?",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_c6330c6b-515f-43d4-b5ae-c25fb7fd30f5.png?",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_858d821c-c1e7-42a9-82d7-a671ad84cd1e.png?",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_37edcf76-cacd-410b-bf4f-9f79d4151ae4.png?",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_5b20fac9-4caf-4be6-a52d-753107c56c69.png?",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10.png"
+        ],
+        "description": [
+          "The welding bed shown above is designed to turn any 1988-2024 Chevy/GMC 2500 or 3500 SRW long-bed pickup into the ultimate welding rig that boasts a tons of onboard dry-storage. This bed is most notable for it's large Canadian box and the use of it's reinforced oxygen bottle holder as a welding machine stand. It's primary purpose is to maximize the efficiency of your rig, and allow you to easily carry everything you'll need to the job site and back.",
+          "From the back of the cab-forward, this bed has a large Canadian style box (32\"L X 80\"W X 60\"H), with a central pass-through upper section for storing longer tools. As you move back, there is a dual-bottle oxygen holder, a 74\"L X 80\"W deck, rub rails with stake pockets, and two rear fender boxes (28\"L X 9 1/2\"W X 20 1/2\"H). It also features an integral gooseneck hitch and the factory hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 47 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 2500/3500 Flatbed W/ 2 Under-Body Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_12f6e836-52ae-4d50-b396-949ed1b1ed0f.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_0265a989-8c5c-46b2-87a5-8a1375162ca7.png?v=1750739654&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_a2f88a76-c467-44ea-865c-944ac738862e.png?v=1750739654&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_61845b51-40bb-497b-80d1-e68cc3da121c.png?v=1750739655&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_7fe6192a-0269-492e-9b86-a65d4282f234.png?v=1750739654&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_7fe6192a-0269-492e-9b86-a65d4282f234.png?v=1750739654&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_3320f3ed-c9be-45fa-9650-05aef33ca469.png?v=1750739655&width=493"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1988-2025 Chevy/GMC 2500 or 3500 SRW long-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction with the addition of 2 under-body truck boxes. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 104\"L X 80\"W deck, rub rails with stake pockets, a stylish-tapered tail, and 2 under-body boxes (32\"L X 10\"W X 16\"H). The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 37 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 3500 Flatbed W/ Rear Deck Box",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_48f65a67-95e6-4b18-a632-759ec8175a60.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_2db51291-4704-4e5d-83ce-d1ae1f88d013.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_7f940f06-bb66-492f-a265-46d1d1229e87.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_02ba1ead-2b17-4d81-8de3-d02f02b440f8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_0423ae37-06fc-4042-8c4d-f8b5a6ba2f3d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_3cbcb18d-dfa7-453f-acb1-7c93f4797e52.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_3ffa558c-9661-48d3-872b-02fd5e16111d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_19a9ba7f-4b8e-4633-82ea-5624f050bb52.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1988-2025 Chevy/GMC 3500 DRW long-bed pickup into a sleek looking yet very capable work rig. This bed is most notable for it's tapered construction and hidden rear deck box, which allows it to have much more storage than one would think at first look. It's primary purpose is to take advantage of all the bed real estate of a dually pickup, while also offering an elevated style to the truck, and additional dry-storage",
+          "From the back of the cab-forward, this bed has a 97\"L X 80\"W deck, two front fender boxes (36\"L X 19\"W X 20\"H), and a singular large rear deck box (25\"L X 96\"W X 20\"H). The rear deck box is full depth on the sides, allowing it to have as much storage as rear fender boxes and a trunk box combined. The factory gooseneck and rear hitches can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 34 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 3500 Flatbed W/ Hauler Trough",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_0e2f7b9e-9e89-45a0-a8f3-18d58ccc9300.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_552558b9-ba1f-4bcf-8f8e-98137ceba228.png?v=1731648438&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_d0eff0be-3d82-4978-a711-f857abc705df.png?v=1731648437&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_74f16bb7-366d-42b6-8fbf-c7f1517afaec.png?v=1731648438&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_38cf5a7d-6f9b-4416-8182-5d64a4ee4fe7.png?v=1731648438&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_2a94dd96-ce7a-4941-a42e-f03b81d9ffad.png?v=1731648439&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_3a9ad300-7344-4fa6-85dc-f4c655d21708.png?v=1731648439&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_f394c146-847c-4581-a5cb-ff6f63ad2066.png?v=1731648439&width=493"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1988-2025 Chevy/GMC 3500 DRW long-bed pickup into the ultimate hauling rig. This bed is most notable for it's sleek body lines, four fender boxes for strap & chain storage, and incorporated hauler trough for easy gooseneck trailer hookup. It's primary purpose is to make hauling large loads safe and easy, and to look really sharp while doing so.",
+          "From the back of the cab-forward, this bed has a 100\"L X 86\"W deck (with a 19 3/4\"W X 4\"H hauler trough), two front fender boxes (31\"L X 16\"W X 21\"H), and two rear fender boxes (28\"L X 16\"W X 21\"H). It also features integral gooseneck & rear bumper hitches. ",
+          "Upon purchasing this set of plans you will receive: A 48 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 3500 Welding Bed W/ Canadian Box",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_11e6b334-76b3-46c8-9ef1-baead8fc7572.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_483852d5-eb2c-4f3e-bfe5-6e8e0cac491f.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_e4673e1f-b7fe-4e4b-a872-182731c79a3a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_99ac3bd4-d6ce-4b38-8c78-29bc5b4d472a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_24c1920b-a6cd-480a-8173-b0b338c0a452.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_75f04e4e-352c-4ba2-b624-0f967f9133d5.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_075c2c00-bfc3-4637-b408-4b2fbb3ee6cb.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_157d7551-4a5d-44d2-997b-5d3138b5142d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_1b34aef2-4dcb-4685-aacb-db4b3271f30c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_112d999e-3a8f-4a40-ac11-3a5fabfa5755.png"
+        ],
+        "description": [
+          "The welding bed shown above is designed to turn any 1988-2025 Chevy/GMC 3500 DRW long-bed pickup into the ultimate welding rig with tons of onboard storage. This bed is most notable for it's inclusion of a Canadian style box with matching wheel-wells & tail styles. It is purpose built to get you and all your gear to the job site, and look sharp doing so. ",
+          "From the back of the cab-forward, this bed has a large Canadian style box (31\"L X 80\"W X 60\"H), with a central pass-through upper section for storing longer tools. As you move back, there is a dual-bottle oxygen holder, a 75\"L X 88\"W deck, rub rails with stake pockets, and two rear fender boxes (30\"L X 14\"W X 20\"H). It also features an optional and removable roof/ladder racks, an integral gooseneck hitch, and the factory hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 51 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 3500 Welding Bed W/ Utility Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_5718fa6f-0424-4832-affb-4bdc623b9486.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_0ecff2e6-48ac-47c8-ac55-41ff660a36ec.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_3a788cf5-8081-4c96-8197-cafc81f015c4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_f11ca8cc-b223-4f23-a5fa-f218588dbddb.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_ce008da8-4c9b-4725-ad63-4971aa623de1.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_e38016f6-d910-41e6-81da-da02ef0f81af.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_164d6b51-7f36-4817-bf1e-8d79e3f7c5fd.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_9159827a-6155-40c1-84cf-75bc0d3a6779.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_b7d30fda-6fd0-40ca-94db-d59e07c0fc04.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_26f48818-aae6-4e09-b994-8b80ba157603.png"
+        ],
+        "description": [
+          "The welding bed shown above is designed to turn any 1988-2025 Chevy/GMC 3500 DRW long-bed pickup into a hybrid-style service truck. This bed is most notable for it's high amount of onboard storage, coupled with it's ability to carry a large welding machine. It's primary purpose is to help get you (and any tool you could dream of bringing) to the job site and back, while making the best use of all the real estate that comes with a dually. ",
+          "From the back of the cab-forward, this bed has a 30\"L X 90\"W welder bay, with a 71\"L X 80\"W deck. As for boxes there are, two front fender boxes (34\"L X 16 1/2\"W X 21\"H), two deck boxes (45\"L X 14\"W X 14\"H), and two rear boxes (31 3/4\"L X 14\"W X 35\"H). The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 32 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 3500 Welding Bed W/ Deck Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_87794947-6cf1-4733-848f-18a940cc5930.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_180256e4-8dc0-4e63-9869-8ed0fda68373.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_a0dd1e7e-2b9a-434c-837a-4f411ce66760.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_5a43d6b0-a358-48a5-b675-acbc5f8acd78.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_827e222e-67df-44b8-a24c-7c3b45868c3c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_38c76a8b-e3d4-4597-8b88-cd7edbb1eaa4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_418841b1-58fa-4111-9148-fbf3dbe3cf36.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_4ebde126-d6a5-49c9-8c8d-8a46ca9c68de.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_ee989f4f-181c-47bb-8776-27412c7183a1.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_faf1511c-b72f-4ce8-a64c-61e475c3123e.png"
+
+        ],
+        "description": [
+          "The welding bed shown above is designed to turn any 1988-2025 Chevy/GMC 3500 DRW long-bed pickup into the ultimate service truck with the capability of carrying a full-size welding machine. This bed is most notable for it's service body style box layout with the inclusion of a large welder bay. It is purpose built to get you and all your gear to the job site with maximum efficiency. ",
+          "From the back of the cab-forward, this bed has a 26\"L X 94\"W welder bay, with a 71\"L X 54\"W deck. As for boxes there are, two front fender boxes (32\"L X 16 1/2\"W X 20\"H), two deck boxes (44\"L X 16 1/2\"W X 14\"H), and two rear boxes (24 1/2\"L X 16 1/2\"W X 34\"H). The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 38 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 3500 Utility Bed W/ Deck-Side Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_3e21e8b8-f74a-4270-9b8f-80b86ff89d44.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_31512881-7b6f-4c7b-8e3b-abb1d6c0bcb7.png?v=1731696799&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_ac65d62e-4922-4ea7-8eac-81b872541fca.png?v=1731696797&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_9d3a1d91-994a-45c1-80ee-f2328a44d510.png?v=1731696800&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_aed14e90-eb1f-487a-b6b7-63f6e285bf48.png?v=1731696797&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_16cbfc2e-699f-403f-88da-683a4603e91f.png?v=1731696801&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_e60585bf-9037-403a-858c-d50c4b2dfb7e.png?v=1731696801&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_21b91517-4101-420c-ac4e-188cad061f39.png?v=1731696802&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_6dd334f3-0167-4eaa-8af8-4a80faab42e0.png?v=1731696802&width=493"
+        ],
+        "description": [
+          "The utility bed shown above is designed to turn any 1988-2025 Chevy/GMC 3500 DRW long-bed pickup into both a flashy & functional service truck. This bed is most notable for it's large front boxes and low profile deck-side boxes. It is designed to help you get all of your tools on & off site and maximizes the available space of a dually pickup.",
+          "From the back of the cab-forward, this bed has two large front boxes (33\"L X 17\"W X 38\"H) with 46\" of space between them. As you move back, there is a 100\"L X 46\"W deck, two deck-side boxes (71\"L X 17\"W X 25\"H), and a recessed trunk box (20\"L X 42\"W X 4\"H). The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 39 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 3500 Flatbed W/ 2 Under-Body Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_439f7d22-1b66-4c58-a6ea-8874d6e29ba3.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_8a96d37d-7d06-4da6-afee-d880824cac12.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_95bd6dde-ab58-4976-ac62-6f7ea60e1b9c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_9bb6f4bc-0197-4002-9fb8-3a2cee0235ee.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_72ba146e-ee66-47f5-ae4b-6f0bca84633f.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_2949bfe4-cc6c-4d4a-a9b8-4c3563fc7deb.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_3071c69f-6d85-4272-b725-3d6390a784f3.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1988-2025 Chevy/GMC 3500 DRW long-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction with the addition of 2 under-body truck boxes. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 104\"L X 96\"W deck, rub rails with stake pockets, a stylish-tapered tail, and 2 under-body boxes (32\"L X 18\"W X 16\"H). The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 37 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "1988-2025 GM 3500 Flatbed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_81422233-1220-4ab3-aa14-4bc7d438bc17.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_45890ad3-7f3d-4bdd-9466-5856ce6dd2e1.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_59014fe2-80c5-4434-9556-13b08f09658e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_9c4387df-afbe-41e5-9e22-29723f749e7e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_2fcf4634-fda0-4a2a-8022-4e069831d024.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_5ea23d1c-fbe2-417e-9c58-aefbf823bcbf.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 1988-2025 Chevy/GMC 3500 DRW long-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 104\"L X 96\"W deck, rub rails with stake pockets, and a stylish-tapered tail. The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 29 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
         ]
       }
     ]
@@ -489,16 +851,335 @@
     "description": "Durable bed plans for Dodge and Ram trucks.",
     "products": [
       {
-        "title": "",
+        "title": "2003-2025 Ram 2500/3500 Flatbed W/ Fender Boxes",
         "price": 129,
-        "image": "",
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_9133b69f-b55d-4fdb-8249-3e132e896e03.png",
         "media": [
-         ""
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_1d090f7b-21da-4ea1-94c9-ef7512441538.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_3dfaecc4-3d6e-4cdb-8c9c-eae036ee957d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_9bab2ff6-2dad-4264-903b-952a285f4b53.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_1f9f68d3-071d-41ff-8afb-8b957cfd182b.png"
         ],
         "description": [
-          ""
+          "Flatbed w/ fender boxes designed to fit on 2003-2025 Ram 2500/3500 SRW short-bed trucks with 42\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 86\" long X 80\" wide.",
+          "Purchase includes: 41 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 2500/3500 Utility Bed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_b04abf77-5755-485d-8ff7-9844dba303bc.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_de77a3a2-9cae-4082-97e1-f44f8445f297.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_f4fa4fce-c98e-4187-ace6-34d982f28e1c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_109ee710-c34b-43a5-acc5-ac642b2f393c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_1b0d8381-3a99-48bf-a0c0-9165acb94ea3.png"
+        ],
+        "description": [
+          "Utility bed w/ headache rack designed to fit on 2003-2025 Ram 2500/3500 SRW short-bed trucks with 42\" wide frames. Built with a 4\" X 2\" 11 gauge rectangular tubing frame, 2\" X 2\" 11 gauge square tubing sub-frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 86\" long X 80\" wide.",
+          "Purchase includes: 41 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 2500/3500 Welding Bed W/ Rear Deck Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_d10bd1d3-bf09-4e32-bf85-d7a8fc80612d.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_9d7c593e-6653-4b82-bb19-fe124ca90f51.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_b6a19d08-0c65-4350-b8be-df30ffd777b8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_de905244-ccd7-40d9-88a0-5630a0ef42ee.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_2ce972d2-b254-4b99-9a7c-0e9fc93d0625.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_377b5bbc-e187-4817-ae7b-cf8a806732f6.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_f35e70c8-c421-4885-a732-fd76838f0d59.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_227b1d77-101c-4642-9815-f85dd80f0977.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9.png"
+        ],
+        "description": [
+          "Welding bed w/ rear deck boxes designed to fit on 2003-2025 Ram 2500 & 3500 SRW short-bed trucks with 42\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Approx. overall dimensions: 86\" long X 80\" wide.",
+          "Purchase includes: 76 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 2500/3500 Utility Bed W/ Large Front Box",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_829adeec-be77-4020-9ceb-47ce66fdef94.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_ffb31649-86e3-4ce2-baef-2fb1b55d9f50.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_54ca8fc7-a969-4c0d-8faf-c0d127e1c404.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_d91032fe-a048-4568-9ba9-63fc12019876.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_34ecd49f-93c5-448a-8391-81f679fe1e23.png"
+        ],
+        "description": [
+          "Utility bed w/ large front box designed to fit on 2003-2025 Ram 2500/3500 short-bed trucks with 42\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 86\" long X 80\" wide.",
+          "Purchase includes: 52 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 2500/3500 Welding Bed W/ Canadian Box",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_ab0166b6-8726-4ea9-aebd-f718d74ecdca.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_eb1955b6-baa3-454f-b3d1-f973b81bb1fb.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_18ec3af1-4b9b-43bf-8c5e-34e9b871b63f.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_1700b160-8d84-4d3d-a051-b1f6bfe004e7.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_3d56996e-4152-46e7-8e2b-56cfb46328eb.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_5a42e7f9-2ea2-42e7-b0db-d2a49f03b3c3.png"
+        ],
+        "description": [
+          "Welding bed w/ Canadian box designed to fit on 2003-2025 Ram 2500/3500 SRW short-bed trucks with 42\" wide frames. Built with a 4\" X 2\" 11 gauge rectangular tubing frame, 2\" X 2\" 11 gauge square tubing sub-frame, 16 gauge plate boxes & fenders, and 10 gauge plate deck & tail. Overall dimensions: 86\" long X 80\" wide.",
+          "Purchase includes: 47 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 2500/3500 Flatbed W/ Transfer Tank",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_51c916f2-5a30-4c8a-afac-58f1ceb57643.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_8ec25ad0-e096-4447-bb68-58b2b71eb755.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_8ec25ad0-e096-4447-bb68-58b2b71eb755.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_6ba201fe-e55c-49cd-ac2f-01624def0afc.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_b47121c6-37c2-4274-8e88-65e215b2bd44.png"
+        ],
+        "description": [
+          "Flatbed w/ 45 gallon transfer tank designed to fit on 2003-2025 Ram 2500/3500 short-bed trucks with 42\" wide frames. Built with a 4\" X 2\" 11 gauge rectangular tubing frame, 3\" X 1 1/2\" 11 gauge rectangular tubing sub-frame, 16 gauge plate boxes, 10 gauge plate tail, and a 2\" X 8\" treated lumber deck. Overall dimensions: 84\" long X 80\" wide.",
+          "Purchase includes: 33 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 2500/3500 Flatbed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_3114e4b5-2705-4f36-82b8-0d1c5ece6080.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_88e4f90f-4c7c-460a-b4d8-fe6fbfd6abfd.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_0adce29b-40b5-49de-83a4-69a118398d95.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_20b04d1b-cc05-46ba-ae82-5cb0b5252159.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_fa8180ff-e7dd-4368-bb99-6ae72ca6f0f6.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_30358fff-02a4-4319-a8bc-b59802c38467.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 2003-2025 Ram 2500 or 3500 SRW short-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 84\"L X 80\"W deck, rub rails with stake pockets, and a stylish-tapered tail. The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 29 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 2500/3500 Flatbed W/ 2 Under-Body Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_19481d7e-0890-459e-86d8-6dc5cf06d10d.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_7d511463-04d4-4307-bc36-2f95f6ad9567.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_1a4a8cc4-dd41-45bb-9beb-f8948d941f20.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_553b8796-0801-45d1-b555-b248095def98.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_1b304e56-9f91-4ae9-a16f-07845118e24a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_8eb298dc-c42a-4dc7-8f17-39b7b62ef2f4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_42c9fafc-a2a6-457d-ae79-825c45b64735.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 2003-2025 Ram 2500 or 3500 SRW short-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction with the addition of 2 under-body truck boxes. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 84\"L X 80\"W deck, rub rails with stake pockets, a stylish-tapered tail, and 2 under-body boxes (18\"L X 10\"W X 16\"H). The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 36 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 2500/3500 Welding Bed W/ Front Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_6aa21875-69bf-471a-8f56-06ca1405dcb2.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_03e17787-0227-42a9-8ffd-c43a227a3c0c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_30a9b17d-634e-4e6a-ba8e-4baa4f8170f5.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_7464e53a-8473-4f62-80ed-8038dfbce741.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_3da6c2fd-6955-429e-be30-de4c12f11d98.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_18344621-9ed3-4e41-be31-7150d904e727.png"
+        ],
+        "description": [
+          "Welding bed w/ front boxes designed to fit on 2003-2025 Ram 2500/3500 SRW long-bed trucks with 42\" wide frames. Built with a 4\" X 2\" 11 gauge rectangular tubing frame, 2\" X 2\" 11 gauge square tubing sub-frame, 16 gauge plate boxes & fenders, and 10 gauge plate deck & tail. Overall dimensions: 104\" long X 78\" wide.",
+          "Purchase includes: 51 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 2500/3500 Utility Bed W/ Fender Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_e0d2d70c-12ca-43cc-b50f-267014a86db3.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_b2a2fcff-fab2-4755-9ca4-db2b65cb05d3.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_42627369-4432-4893-a2f5-22161ec7daba.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_9233d6de-199a-4da7-98c6-6f8f2b96aa5f.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_7fca4131-0e2e-4f12-bd6e-3fb1017e0d75.png"
+        ],
+        "description": [
+          "Utility bed w/ fender boxes designed to fit on 2003-2025 Ram 2500/3500 long-bed trucks with 42\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 104\" long X 80\" wide.",
+          "Purchase includes: 54 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 2500/3500 Welding Bed W/ Removable Front Box",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_582f951d-da09-4254-b5af-9d43a58f0669.png?v=1714075166&width=493",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_3cdb308a-c50e-480c-a738-297af8bc5ac0.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_71eae15d-066c-43f4-bf8a-663e622e1655.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_afcb0a55-fd24-4f2b-8039-9cc8126cd19d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_eb4378af-70c9-4961-8753-b6ee6c1fbefa.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_96b59b0d-a039-46f9-ad75-d27957cf2e0a.png"
+        ],
+        "description": [
+          "Welding Bed w/ a removable front box designed to fit on 2003-2025 Ram 2500/3500 SRW long-bed trucks with 42\" wide frames. Built with a 3\" X 3\" 11 gauge square tubing frame, 3\" X 1 1/2\" 11 gauge rectangular tubing sub-frame, 16 gauge plate fenders & boxes, and 10 gauge plate tail & deck. Overall dimensions: 104\" long X 80\" wide.",
+          "Purchase includes: 59 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 3500 Welding Bed W/ Rear Deck Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_13630cbe-ba45-40eb-a63a-827a01dacb76.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_f9b0e08b-9be9-4556-92aa-1348385d2e8d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_6bcad688-e47e-462e-beb8-fc330b084e64.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_cccc3cb1-21e4-4a71-8cb3-d2347a715e25.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_86b6a0fd-404d-47a6-96bb-1faecb84cfb5.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_fceaa72c-760c-4acd-8e4a-7cd924ce8ac4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_4a7c76ad-fb59-4ae4-9b0e-740db29abfc0.png"
+        ],
+        "description": [
+          "Welding bed w/ rear deck boxes designed to fit on 2003-2025 Ram 3500 DRW long-bed trucks with 42\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 104\" long X 90\" wide.",
+          "Purchase includes: 72 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 3500 Flatbed W/ Hauler Trough",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_3cfca12b-543b-44ee-8be1-c1b4e29313ab.png?v=1749607827&width=493",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_00a8fd5f-65f4-495c-beff-da5f191beda8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_a62f0214-e277-4ff5-a675-b64a171015e7.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_b6cd6162-dae2-44ac-b5cb-25036775ba67.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_b317b5e3-a98f-451b-9fce-caa70c8a0241.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_e5c3c46d-88f5-4036-bfe0-336e93fa72da.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_deae3158-f67a-4c4d-a22a-d3d03480ee90.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_018fd121-ac93-444a-8004-ad7b9da21955.png"
+        ],
+        "description": [                                        
+          "Flatbed w/ a hauler trough designed to fit on 2003-2025 Ram 3500 DRW long-bed pickups with 42\" wide frames. Built with a 4\" X 5.4# U-channel frame, 4\" X 2\" 11 gauge rectangular tubing sub-frame, 14 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 104\" long X 90\" wide.",
+          "Purchase includes: 64 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 3500 Welding Bed W/ Deck Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_21fee693-9b66-4452-952d-e6b2caadb275.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_355173da-d150-4163-863c-affd5c9e0b1a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_4eab275c-6732-42c7-8617-b88f43dee59a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_31ab712b-2ef8-4dcc-8924-bd3fb4dd72a7.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_d490063f-15d9-4ace-b538-3d157b9c4aeb.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_4fdad720-1536-4813-b649-ecf8eaa4b243.png"
+         
+        ],
+        "description": [
+          "Welding bed w/ deck boxes designed to fit on 2003-2025 Ram 3500 DRW long-bed trucks with 42\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 106\" long X 88\" wide.",
+          "Purchase includes: 24 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 3500 Flatbed W/ Fender Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_1c893715-ae85-4ce1-80db-0dfc3c3aa3b9.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_aec8c1d5-86f2-4464-8b5a-cba58542c5c8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_c29a4a25-21c9-4533-9fe3-4a062602e278.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_4ae8bdfb-1d77-45db-b7ec-2cc227c3743b.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_2740c2fe-1307-4ee0-b072-9f75906cab3d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_5470b389-4fca-4070-b730-67213841e9be.png"
+        ],
+        "description": [
+          "Flatbed w/ a fender boxes designed to fit on 2003-2025 Ram 3500 DRW long-bed trucks with 42\" wide frames. Built with a 4\" X #5.4 U-channel frame, 4\" X 2\" 11 gauge rectangular tubing sub-frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 105\" long X 90\" wide. ",
+          "Purchase includes: 48 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 3500 Utility Bed W/ Deck-Side Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_f9151757-64c0-4a10-9b75-e00697f3ea4a.png?v=1710873267&width=493",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_b1a3dbdd-af3b-4aa5-98d4-476958975b1b.png?v=1710873266&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_e09b6aff-5f64-40e4-8235-d3aa290936b8.png?v=1710873267&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_0709f7c7-55a7-4e64-a358-26e34aa5af25.png?v=1710873268&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_ce273517-aa40-41c1-ba69-0ad217d7f617.png?v=1710873268&width=493"
+        ],
+        "description": [
+          "Utility bed w/ deck-side boxes designed to fit on 2003-2025 Ram 3500 DRW long-bed trucks with 42\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate boxes & fenders, and 10 gauge plate tail & deck. Overall dimensions: 104\" long X 92\" wide.",
+          "Purchase includes: 41 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 3500 Welding Bed W/ Canadian Box",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_70f68f78-2def-46e3-af91-231e29442235.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_3e1efff5-cdab-4456-93c5-805ec63a4c62.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_ad2743d2-f180-413a-b05d-15096772a7c9.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_5f1755a8-78c0-47bc-975c-0fa75e0169c2.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_38e1ebf3-32d7-4f76-bd23-d20b4fb003a7.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_5143f0da-4d9c-40d9-a74c-6f4de2a78ff9.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_227286c1-1d75-41f3-bd8c-5ec58b215995.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_d1d0f2f9-9667-4fe8-a510-66ff1c5e0f5e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_58ce950e-8083-4b50-9354-f0786e943660.png"
+        ],
+        "description": [
+          "Welding bed w/ a Canadian box designed to fit on 2003-2025 Ram 3500 DRW long-bed trucks with 42\" wide frames. Built with a 2\" X 4\" 7 gauge rectangular tubing frame, 2\" X 2\" 7 gauge square tubing sub-frame, 16 gauge plate boxes & fenders, and 7 gauge plate tail. Overall Dimensions: 110\" long X 88\" wide.",
+          "Purchase includes: 22 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 3500 Welding Bed W/ Roof Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_30ca78c8-d6b2-4268-ba05-22ad0792268a.png?v=1683235715&width=493",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_ef4bd08f-a78b-495f-9ccf-184e2f04cdb0.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_4dac777b-8241-4edf-9003-a22b119fe05a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_5e82451c-b976-4cad-be6f-e9f008508739.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_84ffd5f5-b8a6-4eb3-b210-97ceb2621bb1.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_a40d8eb3-80f3-4f07-a30d-6835b8ec8c43.png"
+        ],
+        "description": [
+          "Welding bed w/ a roof rack designed to fit on 2003-2025 Ram 3500 DRW long-bed trucks with 42\" wide frames. Built with a 4\" X 2\" 11 gauge rectangular tubing frame, 2\" X 2\" 11 gauge square tubing sub-frame, 16 gauge plate boxes, fenders, and 10 gauge tail plates. Overall dimensions: 108\" long X 88\" wide.",
+          "Purchase includes: 36 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 3500 Flatbed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_0e181c5f-e92a-4bd5-a945-08e0c7688233.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_c1e6d3cf-65fa-4531-a442-2af7fda40dd5.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_33608712-9767-4432-acd9-6e77e4e018c6.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_6495f290-0999-479e-8b35-9c343602d4eb.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_677a2a7c-5499-48a3-82e2-5c807b12b8b8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_2602384e-a7a2-4c6a-8475-23abdfe4412c.png"
+        ],
+        "description": [
+          "Flatbed w/ headache rack designed to fit on 2003-2025 Ram 3500 DRW long-bed trucks with 42\" wide frames. Built with a 4\" X 2\" 11 gauge rectangular tubing frame, 5\" X 6.7# U-channel sub-frame, 14 gauge plate fenders, and 10 gauge plate deck & tail. Overall Dimensions: 104\" long X 96\" wide.",
+          "Purchase includes: 29 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer."
+        ]
+      },
+      {
+        "title": "2003-2025 Ram 3500 Flatbed W/ 2 Under-Body Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_5c5d9cd8-0778-4fa5-b20e-b3ab1707f090.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_09705efa-d044-4561-9f2a-b7ea80b7fe96.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_ba92a77f-c206-470f-9755-52a680cf2911.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_07327c33-7b56-4884-9ec9-9cf065051612.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_ddc461cc-7597-46f9-af72-0888f0f6f6db.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_02066a35-d45a-4b76-907c-1680204c6e28.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_8b9627de-c679-4412-bace-305750adfb9e.png"    
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any 2003-2025 Ram 3500 DRW long-bed pickup into stout and functional work horse. This bed is most notable for it's simple un-skirted construction with the addition of 2 under-body truck boxes. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 104\"L X 96\"W deck, rub rails with stake pockets, a stylish-tapered tail, and 2 under-body boxes (32\"L X 18\"W X 16\"H). The factory rear hitch can still be used with this design. ",
+          "Upon purchasing this set of plans you will receive: A 37 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
         ]
       }
+     
     ]
   },
   {
@@ -507,16 +1188,328 @@
     "description": "Versatile bed plans for chassis-cab configurations.",
     "products": [
       {
-        "title": "",
+        "title": "UNIVERSAL 60\"CA Chassis-Cab 3500 Flatbed W/ 2 Under-Body Boxes",
         "price": 129,
-        "image": "",
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_1807540f-97a7-4de2-9015-6b20210963f6.png?v=1752052129&width=493",
         "media": [
-         ""
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_d37b0c41-bf17-4a5a-ac08-2458d052693e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_7fcee495-3846-4645-9867-cc6180c7bb34.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_00b82525-f7e5-456f-b32e-967d917b6258.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_93261e94-92fc-4f24-93e0-2b6ee88929d5.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_0c7e4044-06dd-4e3f-bce1-70164bc24905.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_c29087f2-659b-46d5-841d-d9100c3bdcff.png"
         ],
         "description": [
-          ""
+          "The flatbed shown above is designed to turn any GM, Ram, or Ford chassis-cab SRW 60\"CA truck into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 110\"L X 80\"W deck, rub rails with stake pockets, a stylish-tapered tail, and 2 under-body boxes (36\"L X 10\"W X 16\"H). It also features both integral gooseneck & rear hitches.",
+          "Upon purchasing this set of plans you will receive: A 39 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 60\"CA Chassis-Cab 3500 Flatbed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_b4dabebd-3a86-45ed-844b-68080d4fbb8d.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_230da1ed-3935-48bd-be57-7ac8dc1f07f4.png?v=1752016297&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_acf31af4-e8f2-4a83-a3d8-1caf224e2635.png?v=1752016297&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_89497b48-e97f-43ee-82b8-e7b99ecc644a.png?v=1752016297&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_3a308061-368d-4db5-9f4a-4e0cef7f650d.png?v=1752016297&width=493",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_d3a8ed4d-d086-4a30-9fe6-48b6c3b0fdd1.png?v=1752016297&width=493"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any GM, Ram, or Ford chassis-cab SRW 60\"CA truck into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 110\"L X 80\"W deck, rub rails with stake pockets, and a stylish-tapered tail. It also features both integral gooseneck & rear hitches.",
+          "Upon purchasing this set of plans you will receive: A 31 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "60\"CA Chassis-Cab 3500 Flatbed W/ Fender Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_ad96574d-a63c-41c5-bf7f-75b175238fe7.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.11_b2fe0ec8-fc6a-4f11-b1f3-440aa65e7776.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_109f26b2-3268-4ab0-9423-88f039973056.pn",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_5e52372c-4136-4843-92fc-af3742aa3a19.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_f1a89ef3-3a2d-469f-a209-83aa972dfde6.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_7aada0c7-c0b9-4d21-9aa5-59b46c752fd3.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_33c36786-77d3-46dc-bf4f-668806556156.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_965a214a-1610-4637-adb6-2b78e16f20cd.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_bbbe34a9-4bfd-4c55-bd2a-212009abbd8d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_250fd8c5-ef89-4b0a-b09b-1734fa79c0e1.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any GM, Ram, or Ford chassis-cab SRW 60\"CA truck into a sleek looking yet very capable work rig. This bed is most notable for it's tapered construction and four fender boxes, which allow it to have onboard storage for your gear while maintaining a good departure angle for overlanding. It's primary purpose is to maximize the efficiency of the bed real estate of a SRW chassis-cab truck, while also offering an elevated style to the truck.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 110\"L X 80\"W deck, integral stake pockets, and a stylish tail that sweeps upward. It also features two front fender boxes (38\"L X 9\"W X 20\"H), two rear fender boxes (32\"L X 9\"W X 20\"H), and a tool drawer nested in the tail (24\"L X 27\"W X 3\"H).",
+          "Upon purchasing this set of plans you will receive: A 42 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 60\"CA Chassis-Cab 3500/5500 Utility Bed W/ Deck-Side Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_e8336f67-bde3-4b9f-b035-5ceeeb400212.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.12_cb162504-537a-4a90-815f-c73f8fa689de.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_0537f0b1-0670-4c6c-a6c2-1631d990fd32.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_2194446b-e516-4c0d-a86f-2afc8e77d8c8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_d564701e-a1d3-44f3-b7c6-95c45c988774.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_38064530-bcba-42c6-bc90-9c9ed1d2a8fe.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_d6e3d5a5-21e1-48ae-9680-4cf0d10bd42d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_190451b7-c5de-4dd2-b56f-85d4f5d89d0d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_4c0e6206-c27e-45ff-a856-97231db2663b.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_eadd80b3-bb24-42c8-a8c1-32484c717ec5.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_0c1efa3c-8168-48c9-8129-261343b3484c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.11_47cb303d-6510-4b0d-8014-cfd6a3152733.png"
+        ],
+        "description": [
+          "The utility bed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 60\"CA truck into a the ultimate work horse. This bed boasts service-body storage capacity levels, while staying streamline to the body and retaining it's gooseneck capability. It is designed to help you get all of your tools on & off site and maximizes the available space of a DRW chassis-cab truck.",
+          "From the back of the cab-forward, this bed has two large quad-door front boxes (58\"L X 19\"W X 41\"H) with 49\" of space between them. As you move back, there is a 110\"L X 49\"W deck, two triple-door deck-side boxes (58\"L X 19\"W X 28\"H), and butted up to the headache rack is a 50 gallon fuel tank w/ an integrated hose box.",
+          "Upon purchasing this set of plans you will receive: A 49 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 60\"CA Chassis-Cab 3500/5500 Flatbed W/ Front Fender Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_36dd4baf-24c5-4771-8b4c-a7444b1f072f.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_bf791658-d68a-40a2-bc1d-d478515d00c8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_1b75a639-5981-4f95-a652-97078e6dd01b.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_3b1a0723-c79d-42fe-ac16-f87ee300dc31.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_17dc89e1-6827-4b07-b39a-d6ce391c1fe1.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_79d6f2b4-bde1-4e87-a65f-7a44c25194ee.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_cc52a739-be19-4f3b-bdca-064f7680d131.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_f075cff3-8b5b-44d0-be1d-6f812c98098c.png"
+        ],
+        "description": [             
+          "The flatbed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 60\"CA truck into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and it's two front fender boxes. It's primary purpose is to help you maximize available deck space that comes with a chassis-cab truck, as well as offering some onboard dry-storage for tools, strap, chains, or any of your other gear.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 108\"L X 92\"W deck, two underbody boxes (39\"L X 21\"W X 21\"H), and a stylish-tapered tail. This design also allows you to maintain your bolt-on rear hitch receiver (if your truck has one on it).",
+          "Upon purchasing this set of plans you will receive: A 27 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 60\"CA Chassis-Cab 3500/5500 Utility Bed W/ Deck-side Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_6d064d24-76d8-4ba4-8b20-8033dab1a2af.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.11_6161a965-e596-4704-9bd9-70a2a1e24bfa.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_0cce69f4-8e7d-44b4-8cf4-df107bbd2eba.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_536841a9-bbac-498c-be3c-37eaf1cc2eef.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_28c9c954-16a1-468f-989d-c039fec169b4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_656be434-4162-4ce5-bf91-0413576145aa.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_aaf9f806-2403-4346-af0a-bad4f060e9bf.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_3d001c87-8d14-440d-ae82-cce282b897bc.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_53906c43-e79e-4ec5-83c1-2d7dd7d58fea.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_599f1ce8-75a3-441b-b4ff-24a7f821abd8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_6215d5d2-d9be-4503-9073-b366aa1f224b.png"
+        ],
+        "description": [
+          "The utility bed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 60\"CA truck into a the ultimate work horse. This bed boasts service-body storage capacity levels, while staying streamline to the body and retaining it's gooseneck capability. It is designed to help you get all of your tools on & off site and maximizes the available space of a DRW chassis-cab truck.",
+          "From the back of the cab-forward, this bed has two large front boxes (39\"L X 15\"W X 39\"H) with 49\" of space between them. As you move back, there is a 110\"L X 49\"W deck, two deck-side boxes (58\"L X 15\"W X 26\"H), and a recessed trunk box (16\"L X 28\"W X 3\"H).",
+          "Upon purchasing this set of plans you will receive: A 57 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 60\"CA Chassis-Cab 3500/5500 Flatbed W/ Fender Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_dead7a1d-b4b9-402e-9857-b0674fbf2310.png",
+        "media": [
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.9_7a12cb95-a272-4f8b-8897-5de3101e6662.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.2_de8afdd1-d6a4-4609-90d9-eff4624740ae.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.3_f51fdae4-3acd-4113-965f-793eb613c5ee.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.4_4c9ffdab-603f-4b47-b0e3-d2fad059b40f.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.5_4e79d2f4-07a1-48bc-ad1a-172ff4b023e1.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.6_69b281b7-bcec-4151-98f9-c5a34222fd7b.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.7_9e81b038-91ce-4f12-8453-33aad6b76b93.png",
+          "https://nomadflatbeds.com/cdn/shop/files/IMG.8_65d1e3bc-3d25-4396-855e-4d6df3cd07a4.png"
+        ],
+        "description": [
+        "The flatbed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 60\"CA truck into a very capable & good looking work rig. This bed is most notable for it's eight 4\" round tail lights and four fender boxes, which allow it to have onboard storage for your gear while maintaining a clean deck. It's primary purpose is to take advantage of all the bed real estate of a DRW chassis-cab truck, while also offering an elevated style to the truck.",
+        "From the back of the cab-forward, this bed is pretty straight forward. It has a 110\"L X 80\"W deck, fender flares & steps to accommodate the duals, and integrated gooseneck & rear hitches. It also features two front fender boxes (30\"L X 9\"W X 16\"H), two rear fender boxes (20\"L X 9\"W X 16\"H), and rear step bumper.",
+        "Upon purchasing this set of plans you will receive: A 57 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 60\"CA Chassis-Cab 3500/5500 Utility Bed W/ Front Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_ed147e8c-64d2-41c9-99c6-3d135726586d.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.12_58a39cb4-b5a2-481d-b4fe-598ee0ded52a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_d32d424f-fd03-4573-b926-7e25df841f0a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_b96cd519-cced-4de5-aff6-91e3ebeb84d7.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_2f313a5a-3426-4bce-ae98-45edb226e5f9.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_9ca89450-0401-4b30-8ccb-7ce3c7e5f04f.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_471132c4-5764-4764-a2ec-eea92564c3f2.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_b1a162d7-f297-4317-aa55-9c4f2758c500.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_8659af5c-683d-475a-baf0-91a971df3aed.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_4010b2fc-dc80-4c8e-8414-d2ac21268749.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_b8cb94bd-660e-4d2f-a1e8-90556c9fa16e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.11_aa7e9f30-a0e9-4ddc-8c1a-c26f321cf75b.png"
+        ],
+        "description": [
+          "The utility bed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 60\"CA truck into a the ultimate work horse. This bed boasts service-body storage capacity levels, while staying streamline to the body and retaining it's gooseneck capability. It is designed to help you get all of your tools on & off site and maximizes the available space of a DRW chassis-cab truck.",
+          "From the back of the cab-forward, this bed has two large quad-door front boxes (58\"L X 20\"W X 41\"H) with 50\" of space between them. As you move back, there is a 110\"L X 50\"W deck, two double-door deck-side boxes (51\"L X 20\"W X 28\"H), and butted up to the headache rack is a 80 gallon fuel tank w/ an integrated hose box.",
+          "Upon purchasing this set of plans you will receive: A 52 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 60\"CA Chassis-Cab 3500/5500 Utility Bed W/ Deck-Side Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_1f2adea8-de8a-46cb-a7bc-ddd617bed708.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.12_d465ecdf-967d-454c-bd92-ee8d8e4f11ae.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_cc175ccb-9f30-4e4a-b334-ae002452e4ec.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_b76e6dfb-7f74-470a-85ab-e71af78113c2.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_0b0ba166-50cf-40f4-b3c6-1c899575dcbe.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_9b8d201b-df9a-4acc-b3ba-043b72eb967d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_3125d58b-98b7-4a8f-9b58-861d56416f8e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_03896c65-1cb8-47c8-a6ab-0d31274f3b70.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_3ea85cf9-595e-45ae-83f5-feb2f6ef858a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_b7ab27d7-ae57-4066-b83e-516a9a18fcfc.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_a0ce6464-d5e4-4f68-be5b-0bd0217922d3.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.11_3f37d616-1e7a-4254-86c3-ddfc41111dbd.png"
+        ],
+        "description": [
+          "The utility bed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 60\"CA truck into a the ultimate work horse. This bed boasts service-body storage capacity levels, while staying streamline to the body and retaining it's gooseneck capability. It is designed to help you get all of your tools on & off site and maximizes the available space of a DRW chassis-cab truck.",
+          "From the back of the cab-forward, this bed has two large double-door front boxes (39\"L X 20\"W X 38\"H) with 50\" of space between them. As you move back, there is a 110\"L X 50\"W deck, two deck-side boxes (71\"L X 20\"W X 27\"H), a recessed trunk box (18\"L X 28\"W X 3\"H), and butted up to the headache rack is a 32 gallon fuel tank w/ an integrated hose box.",
+          "Upon purchasing this set of plans you will receive: A 60 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 60\"CA Chassis-Cab 3500/5500 Flatbed W/ 2 Under-Body Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_3acb2c11-3eea-486d-a1d8-dab4674a0dc8.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_ea4dfc61-3916-4312-8afc-4f6843b53ef0.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_e013cc74-47cd-47dd-a0a8-eaa94a69d8b6.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_f52cacd0-f022-4a6e-bed7-14101bcd45c3.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_c83ed07f-2326-46f6-ab18-d4114319441d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_073b0c38-8f9a-4be2-91a3-456a6fa6c4e5.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_1944a2ab-3e3f-4755-81f3-7292a05ba422.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 60\"CA truck into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 110\"L X 96\"W deck, rub rails with stake pockets, a stylish-tapered tail, and 2 under-body boxes (36\"L X 18\"W X 16\"H). It also features both integral gooseneck & rear hitches.",
+          "Upon purchasing this set of plans you will receive: A 39 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 60\"CA Chassis-Cab 3500/5500 Flatbed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_a530d0c6-c5a5-49b4-8092-34a603b3b0ca.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_97b5191f-61d5-4f1a-bf98-721f2a0b65f3.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_15281029-f0dc-4ba8-a571-8e34838b5b1d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_deba7249-53e5-41eb-8150-edf4a0010b01.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_b9fc380e-9451-49a6-b8ad-082e7dc2c6dc.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_9d859deb-5bb9-47a9-a704-098d240380a9.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 60\"CA truck into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 110\"L X 96\"W deck, rub rails with stake pockets, and a stylish-tapered tail. It also features both integral gooseneck & rear hitches.",
+          "Upon purchasing this set of plans you will receive: A 31 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 84\"CA Chassis-Cab 4500/5500 Utility Bed W/ Deck-Side Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_a58bc6cd-556e-4890-b331-5e16c6ca784c.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.12_97389a7b-e120-40ed-94c5-ce2b1fcc3f82.png?v=1739494523&width=1100",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_ae1278a8-298e-483d-9a58-9c1ed9d6b925.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_934db1d8-c188-4d97-a1b0-857736eba199.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_892c2991-8a3c-4692-9426-f47b790ac2f8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_f728b1df-6219-4d05-93ec-30eba22b73b8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_d46ddf27-196f-47fc-a57d-48daff581b20.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_74ed587b-dce7-49a6-87a2-44008d754569.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_59e1b910-5dff-4448-b559-f94cd877a896.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_303df4fe-2408-49e3-b292-1a4eec54cf9a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_d86a00e7-3085-4e5e-863e-d388e09eca8a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.11_49357ef5-a9c2-438f-aac6-d41b0a33ef44.png"
+        ],
+        "description": [
+          "The utility bed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 84\"CA truck into a the ultimate work horse. This bed boasts service-body storage capacity levels, while staying streamline to the body and retaining it's gooseneck capability. It is designed to help you get all of your tools on & off site and maximizes the available space of a DRW chassis-cab truck.",
+          "From the back of the cab-forward, this bed has two large five-door front boxes (73\"L X 19\"W X 41\"H) with 49\" of space between them. As you move back, there is a 120\"L X 49\"W deck, two triple-door deck-side boxes (61\"L X 19\"W X 28\"H), and butted up to the headache rack is a 50 gallon fuel tank w/ an integrated hose box.",
+          "Upon purchasing this set of plans you will receive: A 50 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 84\"CA Chassis-Cab 3500/5500 Flatbed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_fc565f9f-9ebd-4c01-b3b1-8b85da77c4e3.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_1c5b76f2-6677-4792-bdad-cbb5ebc8e784.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_14d1cb18-1463-4fbb-bf78-8cdb4270ec4f.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_f34886c1-d88f-4ca4-b71f-1333a6af830b.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_ba0b3e51-2a08-4d7c-a889-694b66f40d6e.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_be2e48e6-a5a0-4076-9f44-184a3bfa6f5a.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 84\"CA truck into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 136\"L X 96\"W deck, rub rails with stake pockets, and a stylish-tapered tail. It also features both integral gooseneck & rear hitches.",
+          "Upon purchasing this set of plans you will receive: A 31 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 84\"CA Chassis-Cab 3500/5500 Flatbed W/ 4 Under-Body Boxes",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_7f04381d-2a85-422f-a5c6-5ad8c66748ed.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_baea5674-0da7-4ed4-acb7-7c158b0593ec.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_87c9464a-7d4c-4725-a858-812d10d193dc.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_7b75b5f8-8c6a-46e2-aff8-87bdea6785b8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_0a1ea0f1-80fd-4ee3-a9e5-b70112e67ba0.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_27be94e5-04dc-4c21-a3d1-81e98525d88a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_66cc305a-2dd2-4e47-aa64-abf994d5d550.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 84\"CA truck into stout and functional work horse. This bed is most notable for it's simple un-skirted construction and sleek tapered tail design. It's primary purpose is to help you maximize the amount of deck space & carrying capacity of your pickup.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 136\"L X 96\"W deck, rub rails with stake pockets, a stylish-tapered tail, and 2 tapered under-body boxes (36\"L X 18\"W X 16\"H), and 2 under-body boxes (25\"L X 18\"W X 16\"H). It also features both integral gooseneck & rear hitches.",
+          "Upon purchasing this set of plans you will receive: A 47 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 84\"CA Chassis-Cab 4500/5500 Welding Bed W/ Front Cabinet",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_90063f8d-5875-4c94-9e19-fff1c62cd8f5.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.12_4c849bb6-6517-4615-88a7-e8a6562e7254.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_68050a12-99f8-4222-810a-986ef8fdaf56.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_91a1b83e-9d59-4910-a5c5-8a11b57d8c7d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_c930af93-511b-4951-873c-24d17b51afc9.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_78be93f2-5ad5-426f-9495-955cc097f248.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_447f5580-8ab8-4283-a797-bcf4a1c20bc4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_d7aa2a63-7819-4ef2-acb7-a90fa333de2a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_5e783e7a-191d-4986-9bde-b7a5e74e2b8c.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_3d901541-0d90-41eb-87c0-611b0e189061.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.11_ba5c1bd2-aef9-4c23-88e7-8d170ab93642.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.10_b80c71cb-60d7-40f2-85b4-960254ef786d.png"
+        ],
+        "description": [
+          "The welding bed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 60\"CA truck into the ultimate welding rig that boasts a tons of onboard dry-storage. This bed is most notable for it's large front cabinet accompanied by four underbody boxes. It's primary purpose is to maximize the efficiency of your rig, and allow you to easily carry everything you'll need to the job site and back.",
+          "From the back of the cab-forward, this bed has a large front cabinet (48\"L X 94\"W X 38\"H), with integrated shelves, cabinets, and tool chests inside. Under that are four underbody boxes (24\"L X 18\"W X 18\"H), and as you move back, there is a 83\"L X 96\"W wooden deck, a 18\"L X 96\"W dropped tail work table, and an integral rear hitch. ",
+          "Upon purchasing this set of plans you will receive: A 46 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
+        ]
+      },
+      {
+        "title": "UNIVERSAL 84\"CA Chassis-Cab 3500/5500 Flatbed W/ Rear Deck-Box",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_d0cf8823-c41e-4e61-9dc1-9a92d8296dc1.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.9_8927ed95-a12b-417a-94ce-8428a4515393.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_68f493fa-f6ac-4fd4-be70-610cdfd0901a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_b58d0a28-c094-4d78-ad9b-995e0b884307.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_9f6c661d-fdc1-4847-bd33-99a7679866e4.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_dff2f2fb-00b9-4721-91d6-6d9b43e0fded.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.6_829b981f-b6d8-4e53-ac41-651b47494a4d.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.7_2d8038ac-a28d-412c-975e-553d83566bf6.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.8_b5f3fb32-6822-4d15-9254-f485d6c690c0.png"
+        ],
+        "description": [
+          "The flatbed shown above is designed to turn any GM, Ram, or Ford chassis-cab DRW 84\"CA truck into a very capable & good looking work rig. This bed is most notable for it's tapered fenders and full-width rear deck box, which allow it to have a lot of onboard storage for your gear while maintaining a clean overall look. It's primary purpose is to take advantage of all the bed real estate of a DRW chassis-cab truck, while also offering an elevated style to the truck.",
+          "From the back of the cab-forward, this bed is pretty straight forward. It has a 134\"L X 96\"W deck, hidden stake pocket, and integrated gooseneck & rear hitches. It also features two front fender boxes (36\"L X 18\"W X 16\"H), a large rear deck-box  (27\"L X 96\"W X 19\"H), and rear step bumper.",
+          "Upon purchasing this set of plans you will receive: A 56 page .pdf layout detailing all of the cuts, components, plates & assemblies, as well as a 1 page .pdf bill of materials listing everything you'll need for the build. There is also an optional upgrade to include the .dxf CNC files of all sheet metal components that can be cut on a plasma table or laser. All of our plans are service by our 24 hour in-house tech support. Please reach out if you have any questions, concerns, updates, or awesome build photos to share. We look forward to hearing from you!"
         ]
       }
+     
     ]
   },
   {
@@ -525,14 +1518,32 @@
     "description": "Reliable bed plans for Toyota trucks.",
     "products": [
       {
-        "title": "",
+        "title": "1995-2024 Toyota Tacoma Flatbed W/ Rear Fender Boxes",
         "price": 129,
-        "image": "",
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_6f78d70d-f0e3-452c-96e0-0b5caa9aa473.png",
         "media": [
-         ""
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_f5651fc4-b446-464b-8e1e-b6f2590532c0.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_1ccd644f-927f-4df0-b86e-9aad98aaa13a.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_1e641b9f-e51b-46d8-93f9-3cad34804100.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.5_1c66f44d-9657-4a57-849e-5ee89d76d160.png"
         ],
         "description": [
-          ""
+          "Flatbed w/ a rear fender boxes designed to fit on 1995-2024 Toyota Tacoma short-bed trucks with 43 1/2\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 16 gauge plate fenders & boxes, and 10 gauge tail & deck plates. Overall dimensions: 68\" long X 74\" wide. ",
+          "Purchase includes: 25 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
+        ]
+      },
+      {
+        "title": "1995-2024 Toyota Tacoma Flatbed W/ Headache Rack",
+        "price": 129,
+        "image": "https://nomadflatbeds.com/cdn/shop/files/IMG.1_470753f1-903b-409f-b8a3-6d4ee8bcdc63.png",
+        "media": [
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.2_dd3d4c09-f0c0-4ab1-b0d5-a1abce6611a8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.3_45a91d62-d855-4627-91a1-cc3a5f04e4d8.png",
+         "https://nomadflatbeds.com/cdn/shop/files/IMG.4_8910f97b-ef5d-40c7-a483-1440188b9eae.png"
+        ],
+        "description": [
+          "Flatbed w/ a headache designed to fit on 1995-2023 Toyota Tacoma short-bed trucks with 43 1/2\" wide frames. Built with a 3\" X 1 1/2\" 11 gauge rectangular tubing frame, 2\" X 2\" 11 gauge square tubing sub-frame, 16 gauge plate fenders, and 10 gauge tail & deck plates. Overall dimensions: 68\" long X 59\" wide. ",
+          "Purchase includes: 16 page .pdf layout detailing all components & assemblies, a copy of the bill of materials, the optional upgrade to include the .dxf files of all sheet metal components to be cut on a CNC plasma table or laser, and 24 hour phone support from our lead engineer. "
         ]
       }
     ]
