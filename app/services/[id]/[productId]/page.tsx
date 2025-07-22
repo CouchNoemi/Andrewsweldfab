@@ -25,7 +25,7 @@ export default function ProductDetailPage({
             <div className="bg-black min-h-screen flex items-center justify-center">
                 <div className="text-white text-center">
                     <h1 className="text-2xl font-bold mb-4">Product Not Found</h1>
-                    <p className="text-gray-400">The product you're looking for doesn't exist.</p>
+                    <p className="text-gray-400">The product you&apos;re looking for doesn&apos;t exist.</p>
                 </div>
             </div>
         );

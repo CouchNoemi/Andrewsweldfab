@@ -46,7 +46,7 @@ ${formData.message}
             <div>
               <h3 className="text-xl font-semibold mb-4 text-white">Get in Touch</h3>
               <p className="text-gray-300 mb-4">
-                We're here to help with all your metal fabrication and machining needs.
+                We&apos;re here to help with all your metal fabrication and machining needs.
                 Contact us today for a free quote or consultation.
               </p>
             </div>
