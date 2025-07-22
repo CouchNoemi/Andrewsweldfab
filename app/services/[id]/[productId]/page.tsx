@@ -75,6 +75,7 @@ Thank you!
             document.execCommand('copy');
             document.body.removeChild(textArea);
             alert('Link copied to clipboard! You can now share it with others.');
+            console.log(err);
         }
     };
 

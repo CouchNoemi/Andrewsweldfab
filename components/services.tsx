@@ -1,42 +1,9 @@
 "use client";
 
 import React, { useState } from "react";
-// import flatBedImg from "@/assets/images/basic-flat.jpg";
-import Image, { StaticImageData } from "next/image";
-import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel";
+import Image from "next/image";
 import ServicesData from "@/data/services.json";
 import Link from "next/link";
-
-// Remove the hardcoded services array. Data will be loaded from JSON.
-
-// Dummy colored slides for each service
-const serviceSlides: Record<string, string[]> = {
-  "flat-beds": [
-    "bg-red-500",
-    "bg-red-300",
-    "bg-red-700",
-    "bg-orange-500",
-    "bg-pink-500",
-    "bg-yellow-500",
-  ],
-  "metal-fabrications": [
-    "bg-blue-500",
-    "bg-blue-300",
-    "bg-blue-700",
-    "bg-cyan-500",
-    "bg-indigo-500",
-    "bg-sky-500",
-  ],
-  "press-repair": [
-    "bg-green-500",
-    "bg-green-300",
-    "bg-green-700",
-    "bg-emerald-500",
-    "bg-lime-500",
-    "bg-teal-500",
-  ],
-};
-
 
 function Services() {
   const [selectedServiceId, setSelectedServiceId] = useState<string | null>(null);
@@ -44,8 +11,6 @@ function Services() {
   const handleServiceClick = (id: string) => {
     setSelectedServiceId((prev) => (prev === id ? null : id));
   };
-
-  const selectedSlides = selectedServiceId ? serviceSlides[selectedServiceId] : [];
 
   return (
     <section id="services" className="bg-[#222] p-10 space-y-10">
