@@ -1,8 +1,10 @@
+import React from "react";
 import services from "@/data/services.json";
 import Image from "next/image";
+import Link from "next/link";
 
-export default function ServicePage({ params }: { params: { id: string } }) {
-    const { id } = params;
+export default function ServicePage({ params }: { params: Promise<{ id: string }> }) {
+    const { id } = React.use(params);
     const service = services.find(s => s.id === id);
 
     if (!service) return <div className="text-center py-20">Service not found</div>;
@@ -34,24 +36,28 @@ export default function ServicePage({ params }: { params: { id: string } }) {
 
                 {/* Product Grid */}
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-                    {service.products.map(product => (
-                        <div
-                            key={product.title}
-                            className="bg-white text-black rounded shadow overflow-hidden hover:scale-[1.01] transition-transform"
-                        >
-                            <Image
-                                src={product.image}
-                                alt={product.title}
-                                width={500}
-                                height={500}
-                                className="w-full h-56 object-contain bg-white"
-                            />
-                            <div className="p-4 bg-gray-100">
-                                <h2 className="text-md font-semibold">{product.title}</h2>
-                                <p className="text-sm text-gray-700 mt-1">From ${product.price.toFixed(2)} USD</p>
-                            </div>
-                        </div>
-                    ))}
+                    {service.products.map(product => {
+                        const productId = product.title.toLowerCase().replace(/[^a-z0-9]/g, '-');
+                        return (
+                            <Link
+                                key={product.title}
+                                href={`/services/${id}/${productId}`}
+                                className="flex flex-col cursor-pointer bg-white text-black rounded shadow overflow-hidden hover:scale-[1.01] transition-transform"
+                            >
+                                <Image
+                                    src={product.image}
+                                    alt={product.title}
+                                    width={500}
+                                    height={500}
+                                    className="w-full h-56 object-contain bg-white"
+                                />
+                                <div className="p-4 bg-gray-100 flex-1">
+                                    <h2 className="text-md font-semibold">{product.title}</h2>
+                                    <p className="text-sm text-gray-700 mt-1">From ${product.price.toFixed(2)} USD</p>
+                                </div>
+                            </Link>
+                        );
+                    })}
                 </div>
             </div>
         </div>
